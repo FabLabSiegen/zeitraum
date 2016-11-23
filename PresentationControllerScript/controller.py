@@ -57,14 +57,17 @@ if not beamer.presentationRunning():
 
 monitor1 = Presentation("192.168.1.12", "2002")
 if not beamer.presentationRunning():
-	print("Beamer Presentation not running!")
+	print("Monitor1 Presentation not running!")
 
 monitor2 = Presentation("192.168.1.13", "2002")
 if not beamer.presentationRunning():
-	print("Beamer Presentation not running!")
+	print("Monitor2 Presentation not running!")
 
 while(True):
-	slide = int(input("Slide: "))
-	beamer.gotoSlide(slide)
-	monitor1.gotoSlide(slide)
-	monitor2.gotoSlide(slide)
+	try:
+		slide = int(input("Slide: "))
+		beamer.gotoSlide(slide)
+		monitor1.gotoSlide(slide)
+		monitor2.gotoSlide(slide)
+	except Exception:
+		print(str(sys.exc_info())
