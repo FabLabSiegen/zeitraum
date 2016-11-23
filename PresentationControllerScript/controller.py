@@ -70,5 +70,5 @@ while(True):
 		monitor1.gotoSlide(slide)
 		monitor2.gotoSlide(slide)
 	except Exception:
-		print(str(sys.exc_info())
+		print(str(sys.exc_info()))
 	pass
