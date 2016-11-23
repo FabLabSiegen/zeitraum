@@ -71,3 +71,4 @@ while(True):
 		monitor2.gotoSlide(slide)
 	except Exception:
 		print(str(sys.exc_info())
+	pass
