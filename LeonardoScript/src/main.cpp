@@ -20,7 +20,7 @@ void sendKeyboardAction(int i) {
 
 int touchedPort = -1;
 bool touched = false;
-time_t touchTime = time_t(2);
+time_t touchTime = time_t(1);
 time_t touchTimestamp = 0.0f;
 void touchAction(int i) {
     if (!touched) {
