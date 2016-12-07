@@ -70,11 +70,12 @@ monitor2 = Presentation("192.168.1.13", "2002")
 if not beamer.isPresentationRunning():
 	print("Monitor2 Presentation not running!")
 
-numSlides = beamer.getNumTotalSlides()
 slide = 0
 language = 0
 numLanguages = 3
 languagePins = [0, 1, 2]
+numSlides = beamer.getNumTotalSlides()/numLanguages
+print("Presentation has " + str(numSlides) + " slides.")
 
 while(True):
 	try:
