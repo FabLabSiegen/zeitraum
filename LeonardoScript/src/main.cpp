@@ -4,7 +4,7 @@
 #include <Time.h>
 #include <Keyboard.h>
 
-int NUM_SENSORS = 2;
+int NUM_SENSORS = 5;
 
 
 void setup() {
