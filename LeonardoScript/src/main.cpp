@@ -4,6 +4,7 @@
 #include <Time.h>
 #include <Keyboard.h>
 
+int NUM_ADUINO = 0;
 int NUM_SENSORS = 5;
 
 
@@ -14,7 +15,7 @@ void setup() {
 }
 
 void sendKeyboardAction(int i) {
-    Keyboard.print(i);
+    Keyboard.print((NUM_ADUINO * 14) + i);
     Keyboard.write(KEY_RETURN);
 }
 
