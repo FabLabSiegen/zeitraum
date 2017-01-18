@@ -1,0 +1,6 @@
+{{gallery>
+ideen:henner_und_frieder_pressefoto.jpg
+?crop&200x200&lightbox}}
+
+04.02_zeughaus_stasi_fo_293.jpg 
+04.03_zeughaus_nach_1945.jpg
