@@ -1,20 +1,20 @@
-Arduino	Pin	Folie	Bedeutung		Bemerkung
-0	0		Deutsch
-	1		English
-	2		Nederlands
-	3	1	Start
-	4	2	Herrengarten
-	5	3	Martinikirche
-	6	4	Unteres Schloss
-	7	5	KrönchenCenter
-	8	6	Henner und Frieder
-	9	7	belgisches Militär	[Kabel Schlosspark]
-	10	8	Marienkirche
-	11	9	Rathaus
-	12	10	Nikolaikirche
-1	0	11	Hochbunker
-	1	12	Kreiskirchenamt
-	2	13	Oberes Schloss
-	3	14	Zeughaus
-	4	15	Schlosspark
-	5	16	Apollo
+Arduino	Pin	Folie	Bedeutung			Bemerkung
+0		0			Deutsch
+		1			English
+		2			Nederlands
+		3	1		Start
+		4	2		Herrengarten
+		5	3		Martinikirche
+		6	4		Unteres Schloss
+		7	5		KrönchenCenter
+		8	6		Henner und Frieder
+		9	7		belgisches Militär	[Kabel Schlosspark]
+		10	8		Marienkirche
+		11	9		Rathaus
+		12	10		Nikolaikirche
+1		0	11		Hochbunker
+		1	12		Kreiskirchenamt
+		2	13		Oberes Schloss
+		3	14		Zeughaus
+		4	15		Schlosspark
+		5	16		Apollo

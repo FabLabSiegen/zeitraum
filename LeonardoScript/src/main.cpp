@@ -5,8 +5,8 @@
 #include <Keyboard.h>
 
 int NUM_ADUINO = 1;
-int NUM_SENSORS_PREV = 13;
-int NUM_SENSORS = 4;
+int LAST_SENSOR_PREV = 13;
+int LAST_SENSOR = 5;
 
 
 void setup() {
@@ -16,7 +16,7 @@ void setup() {
 }
 
 void sendKeyboardAction(int i) {
-    Keyboard.print((NUM_ADUINO * NUM_SENSORS_PREV) + i);
+    Keyboard.print((NUM_ADUINO * LAST_SENSOR_PREV) + i);
     Keyboard.write(KEY_RETURN);
 }
 
@@ -47,7 +47,7 @@ void touchAction(int i) {
 
 void loop() {
     bool something_touched = false;
-    for (int i = 0; i < NUM_SENSORS + 1; i++) {
+    for (int i = 0; i < LAST_SENSOR + 1; i++) {
         if (digitalRead(i) == 1) {
             touchAction(i);
             something_touched = true;
