@@ -24,7 +24,7 @@ while(True):
 			elif inputNum == 1:
 				language = "en"
 			elif inputNum == 2:
-				languge = "nl"
+				language = "nl"
 		else:
 			slide = inputNum - numLanguages
 			print("Changing slide to " + str(slide))
