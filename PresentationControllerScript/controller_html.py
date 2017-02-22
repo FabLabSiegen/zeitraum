@@ -23,7 +23,7 @@ while(True):
 				language = "de"
 			elif inputNum == 1:
 				language = "en"
-			elif inputNum == 1:
+			elif inputNum == 2:
 				languge = "nl"
 		else:
 			slide = inputNum - numLanguages
