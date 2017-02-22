@@ -16,11 +16,11 @@
 						if (index != oldIndex || lang != oldLang) {
 							//console.log("switching contents");
 
-							var $downloadingImage = $("<img>");
-							$downloadingImage.load(function(){
+							var downloadingImage = $("<img>");
+							downloadingImage.load(function(){
 								$("#picture").html("<img id='img1' src='" + $(this).attr("src") + "' />");
 							});
-							$downloadingImage.attr("src", map[index] + "/beamer_" + lang + ".jpg");
+							downloadingImage.attr("src", map[index] + "/beamer_" + lang + ".jpg");
 
 							oldIndex = index;
 							oldLang = lang;
