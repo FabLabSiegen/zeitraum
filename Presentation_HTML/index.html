@@ -2,24 +2,25 @@
 	<head>
 		<script src="jquery-3.1.1.min.js"></script>
 		<script>
-			var map = {"1": "1_Herrengarten",
-					   "2": "2_Martinikirche"};
+			var map = {"0": "1_Herrengarten",
+					   "1": "2_Martinikirche"};
 
+			var oldIndex = '-1';
 			var loadVar = function() {
-				console.log("loading content");
 				$.getScript("currentSlide.js")
 					.done(function() {
-						console.log("callback");
-						$("#content").load(map[index] + "/content.html");
-						$("#picture").prepend("<img id='img1' src='" + map[index] + "/01.jpg' />");
+						if (index != oldIndex) {
+							$("#content").load(map[index] + "/content_" + lang + ".html");
+							$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
+							oldIndex = index;
+						}
 					})
-					.fail(function( jqxhr, settings, exception ) {
+					.fail(function() {
 						console.log("fail");
 				});
-				console.log("loaded content");
 			};
 
-			setTimeout(loadVar, 1000);
+			setInterval(loadVar, 500);
 		</script>
 		<style>
 			#contentTable {

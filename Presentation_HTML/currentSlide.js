@@ -1,2 +1,2 @@
-console.log("exernal js");
-var index = '1';
+var index = "0";
+var lang = "de";
