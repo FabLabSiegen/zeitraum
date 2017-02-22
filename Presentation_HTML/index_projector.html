@@ -6,15 +6,29 @@
 					   "1": "2_Herrengarten",
 					   "2": "3_Martinikirche"};
 
+			function cacheImages() {
+				$.each(map, function(key, val) {
+					var img = $("<img />").attr('src', val + '/beamer_de.jpg')
+						.on('load', function() {
+						});
+					var img = $("<img />").attr('src', val + '/beamer_en.jpg')
+						.on('load', function() {
+						});
+					var img = $("<img />").attr('src', val + '/beamer_nl.jpg')
+						.on('load', function() {
+						});
+				});
+			};
+
 			var oldIndex = '-1';
 			var oldLang = 'xy';
 			var loadVar = function() {
-				console.log("polling");
+				//console.log("polling");
 				$.getScript("currentSlide.js")
 					.done(function() {
-						console.log("done");
+						//console.log("done");
 						if (index != oldIndex || lang != oldLang) {
-							console.log("switching contents");
+							//console.log("switching contents");
 							$("#picture").html("<img id='img1' src='" + map[index] + "/beamer_" + lang + ".jpg' />");
 							oldIndex = index;
 							oldLang = lang;
@@ -24,7 +38,7 @@
 						console.log("fail");
 				});
 			};
-
+			cacheImages();
 			setInterval(loadVar, 500);
 		</script>
 		<style>
