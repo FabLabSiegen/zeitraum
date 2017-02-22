@@ -7,7 +7,7 @@ slide = 0
 
 def writeFile():
 	file = open("/var/www/html/currentSlide.js", "w")
-	file.write("var index = '" + str(slide) + "';")
+	file.write("var index = '" + str(slide) + "';\n")
 	file.write("var lang = '" + str(language) + "';")
 	file.close()
 

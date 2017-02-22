@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<script src="jquery-3.1.1.min.js"></script>
+		<script>
+			var map = {"0": "1_Herrengarten",
+					   "1": "2_Martinikirche"};
+
+			var oldIndex = '-1';
+			var loadVar = function() {
+				$.getScript("currentSlide.js")
+					.done(function() {
+						if (index != oldIndex) {
+							$("#picture").html("<img id='img1' src='" + map[index] + "/beamer_" + lang + ".jpg' />");
+							oldIndex = index;
+						}
+					})
+					.fail(function() {
+						console.log("fail");
+				});
+			};
+
+			setInterval(loadVar, 500);
+		</script>
+		<style>
+			#picture img {
+				max-width: 100%;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="picture"></div>
+	</body>
+</html>
