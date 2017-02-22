@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<script src="jquery-3.1.1.min.js"></script>
+		<script>
+			var map = {"1": "1_Herrengarten",
+					   "2": "2_Martinikirche"};
+
+			var loadVar = function() {
+				console.log("loading content");
+				$.getScript("currentSlide.js")
+					.done(function() {
+						console.log("callback");
+						$("#content").load(map[index] + "/content.html");
+						$("#picture").prepend("<img id='img1' src='" + map[index] + "/01.jpg' />");
+					})
+					.fail(function( jqxhr, settings, exception ) {
+						console.log("fail");
+				});
+				console.log("loaded content");
+			};
+
+			setTimeout(loadVar, 1000);
+		</script>
+		<style>
+			#contentTable {
+				border: 0px;
+			}
+			#heading {
+				font-size: 36px;
+			}
+			#text, #content {
+				margin-left: 20px;
+				margin-top: 20px;
+				vertical-align: top;
+			}
+			#pictures {
+				width: 40%;
+			}
+			#picture img {
+				max-width: 100%;
+			}
+		</style>
+	</head>
+
+	<body>
+		<table id="contentTable">
+			<tr>
+				<td id="pictures">
+					<div id="picture"></div>
+				</td>
+				<td id="text">
+					<div id="content"></div>
+				</td>
+			<tr>
+		</table>
+	</body>
+</html>
