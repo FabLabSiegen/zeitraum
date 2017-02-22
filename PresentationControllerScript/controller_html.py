@@ -6,10 +6,14 @@ language = "de"
 slide = 0
 
 def writeFile():
-	file = open("/var/www/html/currentSlide.js", "w")
-	file.write("var index = '" + str(slide) + "';\n")
-	file.write("var lang = '" + str(language) + "';")
-	file.close()
+	try:
+		file = open("/var/www/html/currentSlide.js", "w")
+		file.write("var index = '" + str(slide) + "';\n")
+		file.write("var lang = '" + str(language) + "';")
+		file.close()
+	except Exception:
+		print("Unable to write file.")
+		print(str(Exception))
 
 while(True):
 	try:
