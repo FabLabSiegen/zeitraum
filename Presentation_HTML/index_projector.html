@@ -17,7 +17,7 @@
 							//console.log("switching contents");
 
 							var downloadingImage = $("<img>");
-							downloadingImage.load(function(){
+							downloadingImage.on("load", function(){
 								$("#picture").html("<img id='img1' src='" + $(this).attr("src") + "' />");
 							});
 							downloadingImage.attr("src", map[index] + "/beamer_" + lang + ".jpg");
