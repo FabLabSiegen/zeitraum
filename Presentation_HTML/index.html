@@ -6,13 +6,18 @@
 					   "1": "2_Martinikirche"};
 
 			var oldIndex = '-1';
+			var oldLang = 'xy';
 			var loadVar = function() {
+				console.log("polling");
 				$.getScript("currentSlide.js")
 					.done(function() {
-						if (index != oldIndex) {
+						console.log("done");
+						if (index != oldIndex) || (lang != oldLang) {
+							console.log("switching contents");
 							$("#content").load(map[index] + "/content_" + lang + ".html");
 							$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
 							oldIndex = index;
+							oldLang = lang;
 						}
 					})
 					.fail(function() {
