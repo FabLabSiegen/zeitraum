@@ -12,7 +12,7 @@
 				$.getScript("currentSlide.js")
 					.done(function() {
 						console.log("done");
-						if (index != oldIndex) || (lang != oldLang) {
+						if (index != oldIndex || lang != oldLang) {
 							console.log("switching contents");
 							$("#content").load(map[index] + "/content_" + lang + ".html");
 							$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
