@@ -36,14 +36,14 @@ Hier steht außerdem welche Pins zu welcher Sprache gehören. Das Script ändert
 
 Variablen in der Software sind:
 * numLanguages = 3
- * Anzahl der unterschiedlichen Sprachen
+  * Anzahl der unterschiedlichen Sprachen
 * languagePins = [0, 1, 2]
- * de, en, nl
- * Pins für die Sprachbuttons (hier also 0,1,2 am ersten Arduino)
+  * de, en, nl
+  * Pins für die Sprachbuttons (hier also 0,1,2 am ersten Arduino)
 * language = "de"
- * Startsprache
+  * Startsprache
 * slide = 0
- * Startfolie
+  * Startfolie
 
 
  Bei Änderungen schreibt das Script *Sprache* und *Folien-Index* in die *currentSlide.js*.
