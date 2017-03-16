@@ -12,16 +12,16 @@ Die Software ist in C++ geschrieben und wird per PlatformIO auf die Arduino Leon
 
 Variablen in der Software sind:
 * NUM_ARDUINO:
- * 0, 1, 2, ...
- * Nummer des Arduinos.
- * Wird benötigt um die richtige Zahl auszugeben.
+  * 0, 1, 2, ...
+  * Nummer des Arduinos.
+  * Wird benötigt um die richtige Zahl auszugeben.
 * LAST_SENSOR_PREV:
- * 1, 2, ..., 12, 13
- * Anzahl der Sensoren am vorigen Arduino.
- * Wird ebenfalls für die richtige Zahl benötigt. In der Regel 13.
+  * 1, 2, ..., 12, 13
+  * Anzahl der Sensoren am vorigen Arduino.
+  * Wird ebenfalls für die richtige Zahl benötigt. In der Regel 13.
 * LAST_SENSOR:
- * 0, 1, ..., 11, 12
- * Letzter angeschlossener Pin. An Pins danach wird sonst Unsinn ausgelesen.
+  * 0, 1, ..., 11, 12
+  * Letzter angeschlossener Pin. An Pins danach wird sonst Unsinn ausgelesen.
 
 # Raspberry Pi's
 
