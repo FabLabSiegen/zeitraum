@@ -4,12 +4,10 @@
 #include <Time.h>
 #include <Keyboard.h>
 
-// 0, 1, 2, ...
-int NUM_ADUINO = 2;
-// 1..13 if full
+int NUM_ADUINO = 1;
 int LAST_SENSOR_PREV = 13;
-// 0..12 if full
-int LAST_SENSOR = 1;
+int LAST_SENSOR = 5;
+
 
 void setup() {
     Serial.begin(9600);
