@@ -2,9 +2,31 @@
 	<head>
 		<script src="jquery-3.1.1.min.js"></script>
 		<script>
-			var map = {"0": "1_Start",
-					   "1": "2_Herrengarten",
-					   "2": "3_Martinikirche"};
+		var map = {"0": "1_Button1Start",
+					 "1": "2_Herrengarten",
+					 "2": "3_Martinikirche",
+					 "3": "4_UnteresSchloss",
+					 "4": "5_Kroenchencenter",
+					 "5": "6_Button2HennerUndFrieder",
+					 "6": "7_Button3WalterKraemer",
+					 "7": "8_Marienkirche",
+					 "8": "9_RathausMarkt",
+					 "9": "10_Nikolaikirche",
+					 "10": "11_Hochbunker",
+					 "11": "12_HausDerKirche",
+					 "12": "13_OberesSchloss",
+					 "13": "14_Zeughaus",
+					 "14": "15_Schlosspark",
+					 "15": "16_Apollo",
+					 "16": "17_HTS",
+					 "17": "18_Bahnhof",
+					 "18": "19_MuseumGegenwart",
+					 "19": "20_Button5stadtmauer",
+					 "20": "21_Button6Rubens",
+					 "21": "22_Button7JohannSieben",
+					 "22": "23_Button8Diesterweg",
+					 "23": "24_StadtkrankenhausUni",
+					 "24": "25_Button4Reformation"};
 
 			var oldIndex = '-1';
 			var oldLang = 'xy';
@@ -18,7 +40,7 @@
 
 							var downloadingImage = $("<img>");
 							downloadingImage.on("load", function(){
-								$("#picture").html("<img id='img1' src='" + $(this).attr("src") + "' />");
+								$("#picture").html("<img id='img1' height='100%' width='100%' src='" + $(this).attr("src") + "' />");
 							});
 							downloadingImage.attr("src", map[index] + "/beamer_" + lang + ".jpg");
 
@@ -34,6 +56,7 @@
 			setInterval(loadVar, 500);
 		</script>
 		<style>
+		html, body {margin:0; padding:0;}
 			#picture img {
 				max-width: 100%;
 			}

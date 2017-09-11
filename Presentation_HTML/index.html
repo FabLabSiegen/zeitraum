@@ -2,9 +2,31 @@
 	<head>
 		<script src="jquery-3.1.1.min.js"></script>
 		<script>
-			var map = {"0": "1_Start",
-					   "1": "2_Herrengarten",
-					   "2": "3_Martinikirche"};
+		var map = {"0": "1_Button1Start",
+					 "1": "2_Herrengarten",
+					 "2": "3_Martinikirche",
+					 "3": "4_UnteresSchloss",
+					 "4": "5_Kroenchencenter",
+					 "5": "6_Button2HennerUndFrieder",
+					 "6": "7_Button3WalterKraemer",
+					 "7": "8_Marienkirche",
+					 "8": "9_RathausMarkt",
+					 "9": "10_Nikolaikirche",
+					 "10": "11_Hochbunker",
+					 "11": "12_HausDerKirche",
+					 "12": "13_OberesSchloss",
+					 "13": "14_Zeughaus",
+					 "14": "15_Schlosspark",
+					 "15": "16_Apollo",
+					 "16": "17_HTS",
+					 "17": "18_Bahnhof",
+					 "18": "19_MuseumGegenwart",
+					 "19": "20_Button5stadtmauer",
+					 "20": "21_Button6Rubens",
+					 "21": "22_Button7JohannSieben",
+					 "22": "23_Button8Diesterweg",
+					 "23": "24_StadtkrankenhausUni",
+					 "24": "25_Button4Reformation"};
 
 			var oldIndex = '-1';
 			var oldLang = 'xy';
@@ -15,8 +37,11 @@
 						console.log("done");
 						if (index != oldIndex || lang != oldLang) {
 							console.log("switching contents");
-							$("#content").load(map[index] + "/content_" + lang + ".html");
+							$("#ebenetext").load(map[index] + "/content_" + lang + ".html");
 							$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
+							$("#back").html("<img id='img2' src='bg.jpg' />");
+							$("#qrpicture").html("<img id='img3' src='" + map[index] + "/qr.jpg' />");
+							$("#backtest").html("<img id='img4' src='" + map[index] + "/bg.jpg' />");
 							oldIndex = index;
 							oldLang = lang;
 						}
@@ -29,36 +54,118 @@
 			setInterval(loadVar, 500);
 		</script>
 		<style>
-			#contentTable {
-				border: 0px;
+		body {
+		    margin:		0;
+				padding: 	0;
+				border: 0;
+				background-color: #3080
+		}
+
+		h1        { color: #ffffff; font-size: 36px; font-weight: bold; line-height: 1.5em; }
+		li      	{ color: #ffffff; font-size: 24px; font-style: italic;line-height: 1.5em; }
+		p         { color: #ffffff; font-size: 24px; line-height: 1.5em; }
+
+
+			#ebeneeins {
+				border: 	0px;
+				z-index:	1;
+				margin: 	0;
+				padding: 	0;
+				width: 		1920px;
+				height: 	1080px;
+				position: absolute;
+				top: 			0;
+				left:			0;
 			}
+
+			#ebenezwei {
+				border: 	0px;
+				z-index:	2;
+				width: 		1920px;
+				height: 	1080px;
+				position: absolute;
+				top: 			0;
+				left:			0;
+			}
+
+			#ebenetext {
+				border: 	0px;
+				z-index:	3;
+				margin: 	0;
+				padding: 	0;
+				width: 		750px;
+				height: 	500px;
+				position: absolute;
+				top: 			30px;
+				left:			825px;
+			}
+
+			#ebeneqr {
+				border: 	0px;
+				z-index:	4;
+				margin: 	0;
+				padding: 	0;
+				width: 		1920px;
+				height: 	1080px;
+				position: absolute;
+				top: 			0;
+				left:			0;
+			}
+
 			#heading {
-				font-size: 36px;
+				font-size: 26px;
 			}
-			#text, #content {
-				margin-left: 20px;
-				margin-top: 20px;
-				vertical-align: top;
+			#content {
+				font-size: 26px;
+				margin-left: 0px;
+				margin-top: 0px;
+				color: ffffff;
 			}
-			#pictures {
-				width: 40%;
+
+			#content p {
+				font-size: 26px;
+				margin-left: 0px;
+				margin-top: 0px;
+				color: ffffff;
 			}
+
 			#picture img {
-				max-width: 100%;
+				max-width: 38%;
+				margin-top: 60px;
+				border-right: 10px solid #ffffff;
+				border-top: 10px solid #ffffff;
+				border-bottom: 10px solid #ffffff;
 			}
+			#back img {
+				max-width: 1920px;
+			}
+
+			#qrpicture img {
+				border: 	0px;
+				z-index:	4;
+				margin: 	0;
+				padding: 	0;
+				width: 		120px;
+				height: 	120px;
+				position: absolute;
+				top: 			845;
+				left:			1700;
+			}
+
 		</style>
 	</head>
 
 	<body>
-		<table id="contentTable">
-			<tr>
-				<td id="pictures">
-					<div id="picture"></div>
-				</td>
-				<td id="text">
-					<div id="content"></div>
-				</td>
-			<tr>
-		</table>
+		<div id="ebeneeins">
+				<div id="back"></div>
+		</div>
+		<div id="ebenezwei">
+				<div id="picture"></div>
+		</div>
+		<div id="qrpicture"></div>
+		<div id="ebenetext"></div>
+
+
+
 	</body>
 </html>
