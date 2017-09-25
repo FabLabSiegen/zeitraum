@@ -1,2 +1,2 @@
-var index = '14';
-var lang = 'en';
+var index = '1';
+var lang = 'de';
