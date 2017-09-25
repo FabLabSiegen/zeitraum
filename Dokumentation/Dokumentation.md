@@ -27,6 +27,9 @@ Variablen in der Software sind:
 
 ## Controller:
 
+Beim Start des Controllers wird das Script */home/pi/Desktop/start.sh* ausgeführt. Das Script wird über die Startup-Funktion des LXDE-Desktops gestart. Konfiguriert, welches Script beim Start ausgeführt wird ist in */home/pi/.config/lxsession/LXDE-pi* festgelegt.
+
+
 Der Controller ändert abhängig von den Tastatureingaben des Leonardos eine Javascript-Variable.
 Er hostet weiterhin eine Webseite, die abhängig von der Javascript-Variable Bilder und Texte zum aktuellen Ort einbindet.Arduino Leonardo:
 
@@ -49,6 +52,8 @@ Variablen in der Software sind:
  Bei Änderungen schreibt das Script *Sprache* und *Folien-Index* in die *currentSlide.js*.
 
 ### Webseite
+Als Webserver wird ein lighttpd eingesetzt. Dieser liefert die Websites für die beiden Monitore aus. Als Document-Root dient ist das Verzeichnis */home/pi/Desktop/share/zeitraum/Presentation_HTML*
+
 Die *index.html* (bzw analog *index_projector.html*) lädt Javascript-Variablen aus der *currentSlide.js* und bindet abhängig von diesen das entsprechende Bild und die html-Datei aus dem jeweiligen Order ein.
 
 Dazu ist in der *index.html* und in der *index_projector.html* eine Map, die den Foliennummern die Order zuweist:
