@@ -1,9 +1,10 @@
-# Martinikirche (en)
+# Martinikirche
 
-* Älteste Pfarrkirche der Stadt
-* In der Reformation Begräbnis- und Totenkirche
-* Heute evangelische Kirche
+* The town’s oldest parish church
+* Funerary church and church of the dead during the Reformation 
+* Present day Protestant church
 
-Nach bauhistorischen Untersuchungen lassen sich für die Martinikirche vier Vorgängerbauten nachweisen, deren erste mit einem Schmuckfußboden versehen war, der mindestens ins 11. Jahrhundert zurückreicht und in Teilen erhalten ist.
-Bei Ausgrabungen stellte man fest, dass die Kirche im 12. Jahrhundert wesentlich größer war. Ihr heutiges Aussehen erhielt das Gebäude im 16. Jahrhundert.
-Das Gotteshaus war ursprünglich die Pfarrkirche Siegens, in der Reformationszeit wurde sie jedoch von der Nikolaikirche abgelöst. Die Martinikirche wurde zur Begräbnis- und Totenkirche, um sie herum lag der jahrhundertealte Kirchhof. 1830 konnte das vernachlässigte Gebäude dank großzügiger Spenden der Siegener Bürger instandgesetzt werden.
+Historical investigations have uncovered four previous buildings on the site of the Martinikirche (St. Martin’s church). The first of these had decorative flooring, dating from the 11th century if not earlier. Parts of this floor have survived until the present day.  Excavation work has shown that the church was considerably larger in the 12th century.  The church in its present appearance dates from the 16th century. 
+
+Although the Martinikirche was originally the Parish church of Siegen, the Nikolaikirche (church of St. Nicholas) took over this position during the Reformation. As St. Martin’s was surrounded by the centuries-old graveyard, this place of worship became instead the funerary church and the church of the dead. In 1830, repair work on the neglected building was made possible by generous donations from the people of Siegen. 
+
