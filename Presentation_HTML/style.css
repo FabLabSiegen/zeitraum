@@ -1,0 +1,119 @@
+html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
+	font-family: 'LatoWeb', sans-serif;
+	color: #333;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #3080
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 36px;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+li {
+	color: #ffffff;
+	font-size: 24px;
+	font-style: italic;
+	line-height: 1.5em;
+}
+
+p {
+	color: #ffffff;
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+#ebeneeins {
+	border: 0px;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+	width: 1920px;
+	height: 1080px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#ebenezwei {
+	border: 0px;
+	z-index: 2;
+	width: 1920px;
+	height: 1080px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#ebenetext {
+	border: 0px;
+	z-index: 3;
+	margin: 0;
+	padding: 0;
+	width: 750px;
+	height: 500px;
+	position: absolute;
+	top: 30px;
+	left: 825px;
+}
+
+#ebeneqr {
+	border: 0px;
+	z-index: 4;
+	margin: 0;
+	padding: 0;
+	width: 1920px;
+	height: 1080px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#heading {
+	font-size: 26px;
+}
+
+#content {
+	font-size: 26px;
+	margin-left: 0px;
+	margin-top: 0px;
+	color: ffffff;
+}
+
+#content p {
+	font-size: 26px;
+	margin-left: 0px;
+	margin-top: 0px;
+	color: ffffff;
+}
+
+#picture img {
+	max-width: 38%;
+	margin-top: 60px;
+	border-right: 10px solid #ffffff;
+	border-top: 10px solid #ffffff;
+	border-bottom: 10px solid #ffffff;
+}
+
+#back img {
+	max-width: 1920px;
+}
+
+#qrpicture img {
+	border: 0px;
+	z-index: 4;
+	margin: 0;
+	padding: 0;
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	top: 845;
+	left: 1700;
+}
