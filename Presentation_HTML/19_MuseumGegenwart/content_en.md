@@ -1,8 +1,9 @@
-# MUSEUM FÜR GEGENWARTSKUNST SIEGEN
+# Museum for Contemporary Art, Siegen
 
-* Ehemaliges Telegrafenamt
-* Neubau Josef Paul Kleihues (1933-2004)
-* Seit 2001 Museum für Gegenwartskunst
+* old telegraph office
+* new construction by Josef Paul Kleihues (1933-2004)
+* Museum for Contemporary Art since 2001
 
-2001 eröffnete das Museum für Gegenwartskunst am Unteren Schloss. Der bekannte Architekt Josef Paul Kleihues erweiterte das ehemalige Telegrafenamt von 1894 um einen Neubau und schuf damit einen repräsentativen Ort für die Kunst.
-Das Museum zeigt Ausstellungen zur Gegenwartskunst und die Werke der eigenen Sammlungen: Die renommierte Malereisammlung Lambrecht-Schadeberg beherbergt bedeutende Arbeiten der weltberühmten Rubenspreisträger der Stadt Siegen. Ausgewählte Arbeiten der Fotografie, Video und Installationskunst seit 1960 gehören zur Sammlung Gegenwartskunst. Zu den Hauptwerken gehören beispielsweise die präzisen dokumentarischen Schwarz-Weiß-Fotografien der Siegerländer Fachwerkhäuser von Bernd und Hilla Becher.
+The Museum of Contemporary Art, located near the Lower Castle, opened in 2001. The well-known architect Josef Paul Kleihues expanded the old telegraph office, built in 1894, with a new building and so created a prestigious site for art. 
+
+The museum houses exhibitions of contemporary art and works from its own collections:  the renowned Lambrecht-Schadeberg collection of paintings includes important works by the world-famous Rubens laureates of the city of Siegen. The collection of contemporary art, which was established in 1960, is partly comprised of selected works of photography, video and installation art. The principal works include, for instance, the precise documentary photographs of half-timbered houses in the Siegerland, taken in black-and-white by Bernd and Hilla Becher.
