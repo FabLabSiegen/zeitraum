@@ -1,11 +1,13 @@
-# KAUFHAUS TIETZ - KAUFHOF - „KRÖNCHEN-CENTER“
+# Tietz Department Store - Kaufhof - “Krönchen-Center“
 
-* 1899 Warenhaus Plaut und Daniel, ab 1928 Kaufhaus Tietz
-* 1933 "Arisierung" und Umbenennung in Kaufhof
-* Heute Sitz von Stadtbücherei, Volkshochschule und Stadtarchiv der Stadt Siegen
+* 1899 Plaut and Daniel department store, Tietz department store as of 1928
+* 1933 "Aryanisation", renamed as Kaufhof
+* Present day location of the municipal library, adult education centre and the municipal archives of the city of Siegen
 
-1899 eröffneten die Geschäftsleute Plaut und Daniel ein Warenhaus in einem der Häuser entlang der Straße „Markt“. 1920 beschlossen sie den Bau eines neuen repräsentativen Kaufhauses, gingen 1927 jedoch pleite.
+In 1989, the businessmen Plaut and Daniel opened a department store in one of the houses on Market Street. In 1920, they decided to build a new, prestigious store, but went bankrupt in 1927.
 
-Der deutsch-jüdische Unternehmer Alfred Leonhard Tietz übernahm den halbfertigen Neubau und ließ in fertigstellen. 1928 eröffnete das Kaufhaus Tietz - das erste seiner Art in Siegen. Unter der Herrschaft der Nationalsozialisten ab 1933 wurden jüdische Unternehmen "arisiert". Tietz war gezwungen, aus dem Unternehmen auszutreten und das Land zu verlassen. Die Tietz AG ging in der „Westdeutschen Kaufhof AG“ auf.
+The German-Jewish entrepreneur Alfred Leonhard Tietz took over the half-finished construction and had it completed. The first of its kind in Siegen, Tietz department store opened in 1928. In 1933, under the rule of the national socialists, all Jewish businesses were “Aryanised”. Tietz was forced to resign and leave the country. Tietz AG became “Westdeutscher Kaufhof AG”. 
 
-Beim Luftangriff vom 16. Dezember 1944 wurde das Kaufhaus bis auf die Fassade zerstört. Nach Kriegsende folgte der Wiederaufbau. Bereits 1952 lag die Verkaufsfläche wieder auf Vorkriegsniveau. 1992 musste der Kaufhof in der Siegener Oberstadt schließen. Auch Millioneninvestitionen in Umbau- und Modernisierungsmaßnahmen durch den Konzern "Kerber" konnten die Schließung des Traditionshauses nicht verhindern. 1999 kaufte die Stadt Siegen das Gebäude, um darin ein Kulturkaufhaus zu errichten. Heute ist das ehemalige Traditionskaufhaus Sitz von Stadtbücherei, Volkshochschule und Stadtarchiv der Stadt Siegen. 
+The store’s facade was destroyed during the bombing raid on the city on December 16th 1944. Redevelopment took place after the war and by 1952, the sales area had been restored to its pre-war standard. 
+
+In 1992, Kaufhof in Siegen’s upper town closed its doors for the last time. Despite the millions invested by the Kerber group in conversion and modernisation, the closure of the long-standing store could not be prevented. Siegen municipality took over the building in 1999 to develop it into a centre for art and culture. Today, the traditional department store is the seat of the municipal library, an adult education centre and the municipal archives of the city of Siegen. 
