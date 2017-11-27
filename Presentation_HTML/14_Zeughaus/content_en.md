@@ -1,6 +1,6 @@
-# ZEUGHAUS
+# Arsenal
 
-* nach 1607 erbaut
-* dann Teil des Jesuitenkollegs, heute in Privatbesitz
+* built after 1607
+* then part of the Jesuit college, now owned privately 
 
-Johann VII. der Mittlere (1561-1623) war einer der bedeutendsten Militärhistoriker und –praktiker seiner Zeit. Seine Arbeiten waren weit verbreitet, seine Mithilfe auf protestantischer Seite begehrt. Nach 1607 ließ der Landesherr das Zeughaus aus unregelmäßigen Grauwackesteinen errichten. Über die Menge und Vielfalt des dort gelagerten Kriegsgeräts gibt ein Inventar vom Anfang des 17. Jahrhunderts Auskunft. Das Siegener Zeughaus war ein demnach ein stattliches Waffenarsenal und barg auch eigene Erfindungen des Grafen. Das Gebäude beherbergte später einen Teil des Siegener Jesuitenkollegiums. Der preußische Staat verkaufte es an die Familie Dresler, von der es 1888 der Evangelischen Gesellenverein als Geschenk erhielt. Das Zeughaus ist heute in Privatbesitz.
+Johann VII. the Middle (1561-1623) was one of the most eminent military historians and practitioners of his time. His work was widespread and his assistance sought by Protestants. As governor, Johann had the armoury built from irregular greywacke stones after 1607. An inventory from the early 17th century provides information on the quantity and variety of war equipment stored there. According to this inventory, the armoury in Siegen was an impressive arsenal of weapons and also contained some of the Count's own inventions. The building later accommodated part of Siegen Jesuit College. Later, the Prussian state sold the building to the Dresler family, who then gave it as a gift to the Evangelische Gesellenverein (Protestant Journeymen’s Association) in 1888. The armoury is now privately owned.
