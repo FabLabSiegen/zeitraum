@@ -1,8 +1,10 @@
-# UNIVERSITÄT SIEGEN
-# Ehemaliges Stadtkrankenhaus
+# University of Siegen
+# old municipal hospital
 
-* 1703-1862/63 städtisches Hospiz
-* 1865 Stadtkrankenhaus
-* Seit 2013 Sitz der Universität „Ludwig Wittgenstein-Haus“
+* 1703-1862/63 urban hospice
+* 1865 city hospital
+* Seat of Siegen University’s “Ludwig Wittgenstein” Building since 2015 
 
-Das 1865 errichtete Stadtkrankenhaus war Akademisches Lehrkrankenhaus der Universität Marburg und hatte mit vier Fachabteilungen eine Kapazität von 220 Betten. Vor 125 Jahren wurde das Krankenhaus in kommunale Trägerschaft übernommen. 2013 folgte die Zusammenführung mit dem Kreisklinikum Siegen am Standort Hüttental. Die Gebäude an der Kohlbettstraße wurden veräußert. Seit 2015 beherbergt das ehemalige Stadtkrankenhaus die Fakultät III (Wirtschaftswissenschaften, Wirtschaftsinformatik und Wirtschaftsrecht) der Universität Siegen. Man benannte das Gebäude nach dem bedeutendsten Philosophen des 20. Jahrhunderts Ludwig Wittgenstein-Haus. Direkt nebenan im ehemaligen Bunker des Krankenhauses befindet sich das Aktive Museum Südwestfalen.
+The city hospital, built in 1865, was the academic teaching hospital of the University of Marburg and had a capacity of 220 beds with four specialist departments. It was municipalised 125 years ago and merged with Siegen District Hospital at the Hüttental site in 2013. The building in Kohlbett Street was sold and renamed Ludwig-Wittgenstein Building after one of the most significant philosophers of the 20th century. It has been home to Siegen University’s Faculty III (Economics, Information Systems and Business Law) since 2015.  
+
+Immediately next door to Ludwig-Wittgenstein Building is the South Westphalian Active Museum, located in the hospital’s former air-raid bunker. 
