@@ -1,11 +1,7 @@
-# Henner und Frieder
+# Henner and Frieder
 
-„Henner“ (Heinrich) und „Frieder“ (Friedrich) sind zwei Bronzeplastiken, welche die Geschichte des Siegerländer Erzbergbaus und der Eisen- und Stahlindustrie versinnbildlichen. Die überlebensgroßen Standbilder eines Bergmanns und eines Hüttenmanns wurden im Jahr 1902 von dem Siegener Bildhauer Friedrich Reusch (1843-1906) entworfen.
+“Henner” (Harry) and “Frieder” (Fred) are two bronze statues that epitomise the history of iron ore mining and the iron and steel industry in Siegen and the surrounding area. The Siegen sculptor Friedrich Reusch (1843-1906) designed the larger-than-life figures of a miner and a steel smelter in 1902 for a large industrial and trade show held in Düsseldorf. 
 
-Anlass war die eine große Industrie- und Gewerbeschau in Düsseldorf. Nach Ende der Ausstellung wurden die Figuren der Stadt Siegen als Geschenk vermacht und im Jahr 1904 erstmals auf der Siegbrücke aufgestellt.
+When the exhibition ended, the figures were bequeathed as a gift to the city of Siegen and were first placed on Siegen Bridge in 1904. They have changed location many times since then. At present, they are located on the new bridge overlooking the redesigned banks of the river Sieg. 
 
-Seitdem haben sie mehrfach ihren Standort gewechselt. Heute stehen sie auf der neuen Oberstadtbrücke und überblicken das neugestaltete Siegufer.
-
-Der Bildhauer Friedrich Reusch wollte mit Henner und Frieder nicht nur der Montanindustrie, sondern auch den genügsamen und hart arbeitenden Menschen im Siegerland ein Denkmal setzen.
-
-Durch ihre jahrzehntelange Präsenz im Zentrum der Unterstadt sind sie jedoch für viele zu einem Wahrzeichen der Stadt selbst geworden.
+The sculptor Friedrich Reusch had intended Henner and Frieder to pay tribute not only to the mining industry but also to the frugal and hard-working people of the Siegerland. However, their presence at the centre of the lower part of town for decades has meant that they have come to be a landmark of the city itself for many people.
