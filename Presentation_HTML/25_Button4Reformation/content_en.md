@@ -1,8 +1,11 @@
-# UNIVERSITÄT SIEGEN
-# Ehemaliges Stadtkrankenhaus
+# Reformation and Inheritance Dispute
 
-* 1703-1862/63 städtisches Hospiz
-* 1865 Stadtkrankenhaus
-* Seit 2013 Sitz der Universität „Ludwig Wittgenstein-Haus“
+Count Wilhelm “The Rich” of Nassau-Dillenburg (1487-1559) began to introduce Lutheran reforms to the Siegerland at the end of the 1520s. On his death, governance passed to his son Johann VI. the Older (1536-1606). In the 1570s, under Johann VI.’s reign, the Siegerland transferred from the Lutheran to the Calvinist confession.
 
-Das 1865 errichtete Stadtkrankenhaus war Akademisches Lehrkrankenhaus der Universität Marburg und hatte mit vier Fachabteilungen eine Kapazität von 220 Betten. Vor 125 Jahren wurde das Krankenhaus in kommunale Trägerschaft übernommen. 2013 folgte die Zusammenführung mit dem Kreisklinikum Siegen am Standort Hüttental. Die Gebäude an der Kohlbettstraße wurden veräußert. Seit 2015 beherbergt das ehemalige Stadtkrankenhaus die Fakultät III (Wirtschaftswissenschaften, Wirtschaftsinformatik und Wirtschaftsrecht) der Universität Siegen. Man benannte das Gebäude nach dem bedeutendsten Philosophen des 20. Jahrhunderts Ludwig Wittgenstein-Haus. Direkt nebenan im ehemaligen Bunker des Krankenhauses befindet sich das Aktive Museum Südwestfalen.
+In 1609, Johann VII. the Middle (1561-1623) became the ruler of the Siegerland. In an effort to safeguard the reformed confession, Johann VII. divided his land into three independent counties when he learned of his son Johann VIII. the Younger (1583-1638)’s conversion to Catholicism. 
+
+After his father’s death in 1623, Johann VIII. brought the entire county under his control and began the process of recatholicisation. His half-brother Johann Moritz (1604-1679) managed to occupy Nassau-Siegen with the help of his Swedish troops, reversing the process of recatholicisation. Johann Moritz was the same person who donated the coronet to St. Nicholas’ church in 1658. 
+
+Meanwhile, the Upper Castle remained in Catholic hand. The gold-plated weather vane on the Welsh bonnet roof, which can still be seen today, is the Catholic answer to Protestant St. Nicholas’ Church tower, crowned by the coronet. 
+
+The disputes between the confessions did not end until the 18th century. Wilhelm Hyacinth (1666-1743) lost his principality in 1707, which was then handed over to Friedrich Wilhelm I. Adolf (1680-1743). His son Friedrich Wilhelm II. (1706-1734) was the last prince of the reformed line. Following his death, Wilhelm IV. Prince of Orange and Nassau (1711-1751) inherited these titles and lands which he proceeded to incorporate into the principality of Orange-Nassau. 

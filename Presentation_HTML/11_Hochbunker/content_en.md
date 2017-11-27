@@ -1,9 +1,9 @@
-# HOCHBUNKER
+# Air Raid on December 16th 1944 and the Urban High-rise Bunker 
 
-Noch vor Beginn des Zweiten Weltkrieges ließ der Siegener Oberbürgermeister Alfred Fißmer Luftschutzstollen und -bunker anlegen. Er tat dies nicht ohne Grund: Siegen war Garnisonsstadt und Standort kriegswichtiger Industrie.
+Even before the Second World War began, the Lord Mayor of Siegen, Alfred Fissmer, had tunnels and bunkers built as protection in case of air raids. He had his reasons for this: Siegen was a garrison town and an important centre of wartime industry. 
 
-Am Samstag, dem 16. Dezember 1944, ereignete sich der erste große Luftangriff der Alliierten auf Siegen. 348 Menschen kamen ums Leben, darunter 32 ausländische Gefangene, die in Deutschland Zwangsarbeit leisten mussten. Der alte Stadtkern Siegens wurde zu über 80 Prozent zerstört.
+The Allies’ first large air raid on Siegen took place on December 16th 1944. 348 people lost their lives. These included 32 foreign prisoners, condemned to hard labour in Germany and billeted in Siegen. 80% of Siegen’s old town centre was destroyed. 
 
-Beinahe gleichzeitig mit dem Angriff auf Siegen ging eine deutsche V2-Rakete auf das belgische Antwerpen nieder. Der Angriff, bei dem 561 Menschen starben, wurde von Siegen aus befohlen.
+More or less at the same time as this air raid was taking place, a German V2 missile hit the Belgian city of Antwerp. This attack, which killed 561 people, had been commanded from Siegen.
 
-Der Bombenangriff auf Siegen ist fest im kollektiven Gedächtnis der Bevölkerung verankert. Seit 2009 wird den Opfern von Siegen und Antwerpen gemeinsam gedacht.
+The bombing of Siegen is firmly anchored in the collective memory of the population. Since 2009, the victims of Siegen and Antwerp have been remembered together.

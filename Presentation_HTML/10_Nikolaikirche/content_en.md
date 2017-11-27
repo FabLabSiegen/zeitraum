@@ -1,6 +1,8 @@
-# NIKOLAIKIRCHE MIT DEM „KRÖNCHEN“, DEM WAHRZEICHEN DER STADT
+# Nikolaikirche (St. Nicholas’ Church), with the “coronet”, the city’s landmark 
 
-* Evangelische Pfarrkirche, ursprünglich 13. Jahrhundert
+* Protestant parish church, originally dating from the 13th century 
 
-Die spätromanische Hallenkirche mit ihrem einzigartigen sechseckigen Zentralbau und dreischiffigem Langhaus wird im 2. Viertel des 13. Jahrhunderts erbaut. Dem Heiligen Nikolaus, Schutzpatron der Reisenden und Kaufleute geweiht, gehört sie zu den städtischen Marktkirchen des Mittelalters, die damals von Kaufläden und Krämerbuden umgeben sind. Die Stadtkirche der Grafen von Nassau ist seit 1530 evangelisch und seit etwa 1580 reformierte Hauptpfarrkirche der Stadt Siegen.
-Aus Anlass seiner Erhebung in den Fürstenstand lässt Johann Moritz von Nassau-Siegen 1658 eine große schmiedeeiserne und vergoldete Krone auf den Turm setzen. Das „Krönchen“ wird zum Wahrzeichen der Stadt. Eine besondere Kostbarkeit im Kirchenschatz ist die vom Fürsten gestiftete vergoldete Taufschale, eine peruanische Silberarbeit aus dem 16. Jahrhundert.
+The late Romanesque hall church with its unique hexagonal central building and its nave with three aisles was built in the 2nd quarter of the 13th century. Dedicated to Saint Nicholas, patron saint of travellers and merchants, it is a medieval town market church, surrounded by shops, booths and stalls. 
+Since 1530, the parish church of the Counts of Nassau has been Protestant and since roughly 1580, it has been the main reformed parish church of the town of Siegen. 
+
+On his elevation to princely status, Johann Moritz of Nassau-Siegen had a large wrought-iron and gold-plated crown placed on the church’s tower. This “coronet”, known far and wide, soon became the city’s landmark. The church’s treasury is also home to an exceptional precious object: a gilded baptismal bowl donated by the Prince. It is made of Peruvian silverwork dating from the 16th century. 

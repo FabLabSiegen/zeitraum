@@ -1,10 +1,10 @@
-# KREISKIRCHENAMT – HAUS DER KIRCHE
-# Johann-Moritz-Stift
+# District Church Office – The Home of the Church
+# Johann-Moritz-Foundation
 
-* Mittelalterliche Kellerei des Oberen Schlosses
-* 1643-1771 Jesuiten-Kollegium
-* 1901-1978 Waisenhaus
-* 1978-1982 Übertragung der Trägerschaft an die Heimat für Heimatlose GmbH
-* Seit 1982 Kreiskirchenamt - Haus der Kirche
+* Medieval wine cellar at the Upper Castle
+* 1643-1771 Jesuiten-College
+* 1901-1978 orphanage
+* 1978-1982 Transfer of ownership to “Heimat für die Heimatlose GmbH“ (Home for the Homeless Ltd.) 
+* District Church Office – The Home of the Church since 1982
 
-Das Haus der Kirche liegt in der ehemaligen Burgfreiheit des Oberen Schlosses. Als Johann VIII. von Nassau-Siegen 1623 die Regierung über die gesamte Grafschaft übernimmt, überlässt er dem Jesuitenorden das Gebäude. Das neu errichtete Kollegium wird immer wieder um- und angebaut. 1901 geht das Gelände in den Besitz des Erziehungsvereins der Kreissynode Siegen über. Ein Waisenhaus entsteht, das den Namen Johann Moritz-Stift erhält. Es folgen weitere Um- und Erweiterungsbauten. Heute sind im Haus der Kirche die Superintendentur und gesamte Verwaltung der Kirchenkreise Siegen und Wittgenstein, die Telefonseelsorge und die Erwachsenen-, Familien- und Lebensberatungs-Stelle des Kirchenkreises untergebracht.
+The District Church Office is situated in what used to be the inner ward of the Upper Castle. When Johann VIII. of Nassau-Siegen took over the administration of the whole county in 1623, he left the building to the Jesuit Order. The newly established college was gradually but repeatedly modified and extended. In 1901, ownership of the property was transferred to the Educational Society of the Synod of Siegen and District. An orphanage was built and named “Johann Moritz Foundation”. Further alterations and extensions followed. The Home of the Church is presently the seat of the superintendency and the entire administrative body of the church districts of Siegen and Wittgenstein. It also houses telephone counselling services as well as the Adult, Family and Life Counselling Centre of the church district.
