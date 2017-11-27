@@ -1,10 +1,10 @@
-# OBERES SCHLOSS – STAMMSITZ DES HAUSES NASSAU
+# Upper Castle – Ancestral Seat of the Nassau Line
 
-* 1259 erste urkundliche Erwähnung der Höhenburg
-* Stammsitz der katholischen Linie Nassau-Siegen
-* Seit 1888 im Besitz der Stadt Siegen
-* Seit 1905 Museum
+* 1259 first documentary mention of the castle on the hill
+* Ancestral seat of the Catholic line Nassau-Siegen
+* Owned by the City of Siegen since 1888 
+* Museum since 1905 
 
-Die Höhenburg auf dem Siegberg wird erstmals 1259 schriftlich erwähnt. Über 200 Jahre ist die Anlage aufgeteilt unter die damaligen Landesherren - den Erzbischof von Köln und die Grafen von Nassau. Das Ende der Doppelherrschaft im Jahre 1421 bedeutet für die Grafen des Hauses Nassau-Siegen die alleinige Herrschaft über die Burg und die Stadt Siegen. Mit dem Bau des Unteren Schlosses Anfang des 18. Jahrhunderts wird der Stammsitz des Hauses Nassau-Siegen als Oberes Schloss bezeichnet.
+The castle on Siegberg Hill is first mentioned in documents dating from 1259. For 200 years, the property was divided between the former rulers – the Archbishop of Cologne and the Counts of Nassau. This double rule ended in 1421 with the Counts of the Nassau-Siegen line having exclusive reign over the castle and the town of Siegen. With the construction of the Lower Castle at the beginning of the 18th century, the Upper Castle was designated the ancestral seat of the Line of Nassau-Siegen. 
 
-Das Obere Schloss erlebt im Laufe der Zeit vielfältige Nutzungen und Umbauten. Im frühen 19. Jahrhundert geht das Siegerland in preußischen Besitz über. Das Haus Nassau-Siegen ist zu diesem Zeitpunkt bereits erloschen. 1888 kauft die Stadt Siegen das Obere Schloss und entscheidet 1905 dort die Sammlungen des Museums unterzubringen.
+Over the course of time, the Upper Castle has experienced a variety of uses and conversions. Siegen and its surrounding area (the Siegerland) was transferred to Prussian ownership in the early 19th century. By this time, the Line of Nassau-Siegen had already died out. In 1888, Siegen municipality bought the Upper Castle and decided to establish the “Regional Museum of Siegen” in 1903. This was duly opened in the Upper Castle in 1905. 
