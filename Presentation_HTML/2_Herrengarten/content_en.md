@@ -1,7 +1,7 @@
-# Herrengarten (en)
+# Herrengarten
 
-* Im 17. Jahrhundert Park
-* Dann mit Gebäuden versehen
-* Aktuell: Planungen zur Rückführung in eine Grünfläche
+* Park in 17th century
+* Site later developed
+* Current status: Plans to return Herrengarten to its earlier state of public park
 
-Der Herrengarten lag ursprünglich vor den Toren der alten Kernstadt Siegen. Johann Moritz von Nassau-Siegen (1604-1659) ließ ihn als Lustgarten anlegen, mit einer Umfassungsmauer und einem schmiedeeisernen Gitter umfassen. Lange Zeit blieb das Gelände die einzige größere Grünfläche der Unterstadt, bis es mit Gebäuden versehen wurde. Aktuell wird die Rückführung in eine Parkanlage geplant.
+The Herrengarten (“Gentlemen’s Garden”) was originally situated just outside the city gates of Siegen proper. Johann Moritz von Nassau-Siegen (Prince John Maurice of Nassau-Siegen), (1604-1679), had it laid out as a pleasance, contained by a wall and wrought-iron railings. A portion of these historical railings, which are topped by spearheads, can still be seen today in the gardens of the Upper Castle. The site remained the only substantial green area in the lower town for a long time until it finally succumbed to development. Present plans propose transforming the area into a park once again.
