@@ -1,12 +1,11 @@
 # Adolph Diesterweg
 
-Friedrich Adolph Wilhelm Diesterweg (1790-1866) war ein in Siegen geborener Schul-pädagoge.
+Friedrich Adolph Wilhelm Diesterweg (1790-1866) was a school pedagogue born in Siegen. 
 
-Er gehörte zu den Vordenkern der Reformpädagogik und kämpfte für eine „naturgemä-ße“ Erziehung. Sein Ziel war es, „... den Menschen rein in sich und um seiner selbst willen, gemäß der Natur der Anlagen (...) allseitig zu erziehen und zu bilden.“
+Diesterweg counted among the masterminds of progressive education and fought for “natural” education. His aim was “…to always nurture and educate people in their own right and for their own sake, according to the nature of their aptitude”.
 
-Als Schulpolitiker kämpfte er gegen den starken Einfluss von Politik und Kirche auf das Bildungswesen und für eine allgemeine Schulpflicht. Zudem wollte er dem Lehrerstand zu besserer Ausbildung und mehr sozialer Anerkennung verhelfen.
+As an education politician, he fought against the strong influence exerted by both politics and the church on the educational system. At the same time, Diesterweg was a great advocate of general compulsory education. In addition, he wanted to help provide teaching staff with better training and greater social recognition. 
 
-Nachdem er im Vorfeld der 1848er Revolution in die Kritik geraten und vom Dienst suspendiert worden war, betätigte er sich als Publizist und Politiker. Er starb am 7. Juli 1866 in Berlin.
+In the run-up to the 1848 Revolution, Diesterweg was heavily criticized and subsequently suspended from his duties. He later worked as a publicist and politician before dying in Berlin on July 7th 1866. 
 
-Diesterwegs Geburtshaus in der Kölner Straße wurde im Zweiten Weltkrieg zerstört.
-Neben dem Campus Unteres Schloss der Universität Siegen an der Grabenstraße erin-nert jedoch eine von dem Bildhauer Friedrich Reusch geschaffene Büste an den großen Pädagogen. Sie wurde 1890 zum 100. Geburtstag von Diesterweg enthüllt.
+Diesterweg’s birthplace in Kölner Street was destroyed during the Second World War. A bust of the great pedagogue, created by the sculptor Friedrich Reusch, can however be seen in Graben Street, next to the University of Siegen’s Lower Castle Campus. The bust was unveiled in 1890 to commemorate Diesterweg’s 100th birthday.
