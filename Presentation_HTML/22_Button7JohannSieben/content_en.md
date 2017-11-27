@@ -1,7 +1,7 @@
-# Johann VII. von Nassau-Siegen
+# Johann VII. of Nassau-Siegen
 
-Johann VII. zu Nassau-Siegen (1561-1623), genannt der Mittlere, war Graf von Nassau-Siegen. Die Teilgrafschaft mit der Residenz in Siegen war ihm bei der väterlichen Erb-teilung 1607 zugesprochen worden. Er ließ das Obere Schloss ausbauen und befestigen. Im neu errichteten Zeughaus gründete er 1616 eine Kriegsschule. Johann VII. verstarb 1623 in Siegen.
+Johann VII. of Nassau-Siegen (1561-1623), known as “The Middle”, was the Count of Nassau-Siegen. He received the partial county with its residence in Siegen as his inheritance portion when his father divided his estate in 1607. Johann VII. subsequently had the Lower Castle developed and fortified. In 1616, he also founded a military school in the newly-built arsenal before dying in Siegen in 1623.
 
-Aufgrund von Erbstreitigkeiten mit seinem zum Katholizismus konvertierten Sohn Jo-hann VIII. dem Jüngeren hatte er testamentarisch die Teilung der Grafschaft Nassau-Siegen in drei Teile angeordnet. Seine letzte Ruhestätte befindet sich heute in der Fürst-engruft des Unteren Schlosses.
+Inheritance disputes with his son Johann VIII. the Younger, who had converted to Catholicism, resulted in Johann VII. issuing a testamental decree that the County of Nassau-Siegen should be divided into three parts.  Johann VII.’s final resting place can still be found today in the Royal Crypt at the Lower Castle. 
 
-Seit 2001 steht neben der Hainpforte des Schlossparks eine von Hermann Kuhmichel geschaffenen Statue des Grafen. Ursprünglich hatte die Großplastik an der Heidenberg-Kaserne gestanden, wo sie an die Bedeutung des Grafen als Feldherr erinnern sollte. Mit dem Umzug an den neuen Standort war eine neue Wahrnehmung Johanns, der die Hohe Schule Herborn nach Siegen verlegt hatte, als Begründer der universitären Tradition verbunden.
+Hermann Kuhmichel designed a statue of the Count, which has stood next to the Hainpforte (Copse Portal) at the castle grounds since 2001. Originally intended to serve as a tribute to the Count’s importance as military commander, the large-scale sculpture had previously stood at the Heidenberg barracks. Moving the statue highlighted a different aspect of Johann’s life: having relocated Herborn College to Siegen, he earned recognition as the father of the university tradition.
