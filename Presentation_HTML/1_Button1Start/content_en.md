@@ -1,10 +1,10 @@
-# Stadt Siegen (en)
+# City of Siegen
 
-Grundlegende Infos:
+# Basic Information:
 
-Bundesland: 		Nordrhein-Westfalen
-Regierungsbezirk:	Arnsberg
-Kreis:				Siegen-Wittgenstein
-Fläche:				114,7 km2
-Einwohner:			102.355 (Stand Dezember 2015)
-Seit 2012 Universitätsstadt
+* Federal state: North-Rhine Westphalia
+* Administrative district: Arnsberg
+* Region: Siegen-Wittgenstein
+* Area: 114.7 km^2
+* Population: 102,355 (as of 2015)
+* Status as University town as of 2012
