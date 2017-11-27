@@ -1,9 +1,7 @@
-# SANKT MARIENKIRCHE
+# Sankt Marienkirche (St. Mary’s Church)
 
-* Seit 1725 einzige katholische Kirche innerhalb der ehemaligen Stadtmauer
-* Siegens einziger erhaltener Sakralbau aus der Zeit des Barock
-* Ursprünglich Ort des Fürstengestühls (heute über der Tür in diesem Raum)
+* The only Catholic church within the former city walls since 1725 
+* Siegen‘s only remaining sacral structure dating from the Baroque era
+* The original location of the princely stalls (above the door in this room today)
 
-Die Sankt Marienkirche ist die einzige katholische Kirche innerhalb der ehemaligen Stadtmauer. Sie ist außerdem die erste katholische Pfarrkirche, die nach der Reformation in Siegen gebaut wurde. Die Grundsteinlegung erfolgte durch den Jesuitenorden im Jahre 1702, aber erst 23 Jahre später, 1725, konnte das Gebäude seiner Bestimmung übergeben werden.
-Im Chor der Marienkirche befand sich das Fürstengestühl mit dem bekrönenden Allianzwappen, das heute über der Tür in diesem Raum des Museums zu sehen ist.
-Siegens einziger Sakralbau aus der späten Barockzeit wurde beim Bombenangriff 1944 zerstört, 1948 wieder aufgebaut und mehrfach saniert.
+Sankt Marienkirche (St. Mary’s Church) is the only Catholic church within the former city walls. Furthermore, it was the first Catholic parish church to be built in Siegen after the Reformation. The Jesuit Order laid the foundation stone in 1702 but it was not until 23 years later, in 1725, that the building could be assigned to its purpose. The princely stalls were once situated in the choir of St. Mary’s church, along with the crowning coat of arms of the alliance that can now be seen above the door in this room of the museum.  Siegen’s only sacral structure from the late Baroque era was destroyed during the bombing raid in 1944. It was rebuilt in 1948 and has subsequently been renovated several times. 
