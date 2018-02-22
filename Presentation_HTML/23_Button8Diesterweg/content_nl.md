@@ -1,12 +1,10 @@
-# Adolph Diesterweg
+# ADOLPH DIESTERWEG
 
-Friedrich Adolph Wilhelm Diesterweg (1790-1866) war ein in Siegen geborener Schul-pädagoge.
+Friedrich Adolph Diesterweg (1790-1866) was een in Siegen geboren schoolpedagoog. 
+Hij was een van de grote denkers van de hervormde pedagogie en zet zich in voor een „inherente” opvoeding. Het doel was, „... de mensen rein in zich en voor zichzelf, volgens de aanelg [...] in elk opzicht te onderwijzen en te vormen.” 
 
-Er gehörte zu den Vordenkern der Reformpädagogik und kämpfte für eine „naturgemä-ße“ Erziehung. Sein Ziel war es, „... den Menschen rein in sich und um seiner selbst willen, gemäß der Natur der Anlagen (...) allseitig zu erziehen und zu bilden.“
+Als schoolpoliticus vocht hij tegen de sterke invloed van politiek en kern op het onderwijs en voor een algemene schoolplicht. Bovendien wilde hij verbeterte opleidingen en meer sociaal respect voor het onderwijzend personeel. 
+In de aanlop naar de Duitse Revolutie van 1848 wordt hij bekritiseerd en geschorst. Dus gedraagt hij zich als publicist en politicus. Hij stierf op 7 juli 1866 in Berlin.
 
-Als Schulpolitiker kämpfte er gegen den starken Einfluss von Politik und Kirche auf das Bildungswesen und für eine allgemeine Schulpflicht. Zudem wollte er dem Lehrerstand zu besserer Ausbildung und mehr sozialer Anerkennung verhelfen.
-
-Nachdem er im Vorfeld der 1848er Revolution in die Kritik geraten und vom Dienst suspendiert worden war, betätigte er sich als Publizist und Politiker. Er starb am 7. Juli 1866 in Berlin.
-
-Diesterwegs Geburtshaus in der Kölner Straße wurde im Zweiten Weltkrieg zerstört.
-Neben dem Campus Unteres Schloss der Universität Siegen an der Grabenstraße erin-nert jedoch eine von dem Bildhauer Friedrich Reusch geschaffene Büste an den großen Pädagogen. Sie wurde 1890 zum 100. Geburtstag von Diesterweg enthüllt.
+Diesterwegs geboortehuis in de Keulse straat werd in de tweede wereldoorlog vernietigd. 
+Naast de campus Benedenslot van de universiteit Siegen bij de Grabenstraat herinnerd een buste, gecreëerd door de Siegense beeldhouwer Friedrich Reusch en onthuld op de 100. verjaardag in 1890, aan de gerespecteerde pedagoog.
