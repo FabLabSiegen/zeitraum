@@ -1,8 +1,7 @@
-# UNIVERSITÄT SIEGEN
-# Ehemaliges Stadtkrankenhaus
+# REFORMATIE EN SUCCESSIESTRIJD
 
-* 1703-1862/63 städtisches Hospiz
-* 1865 Stadtkrankenhaus
-* Seit 2013 Sitz der Universität „Ludwig Wittgenstein-Haus“
-
-Das 1865 errichtete Stadtkrankenhaus war Akademisches Lehrkrankenhaus der Universität Marburg und hatte mit vier Fachabteilungen eine Kapazität von 220 Betten. Vor 125 Jahren wurde das Krankenhaus in kommunale Trägerschaft übernommen. 2013 folgte die Zusammenführung mit dem Kreisklinikum Siegen am Standort Hüttental. Die Gebäude an der Kohlbettstraße wurden veräußert. Seit 2015 beherbergt das ehemalige Stadtkrankenhaus die Fakultät III (Wirtschaftswissenschaften, Wirtschaftsinformatik und Wirtschaftsrecht) der Universität Siegen. Man benannte das Gebäude nach dem bedeutendsten Philosophen des 20. Jahrhunderts Ludwig Wittgenstein-Haus. Direkt nebenan im ehemaligen Bunker des Krankenhauses befindet sich das Aktive Museum Südwestfalen.
+Willem Graaf van Nassau, genoemd „de Rijke“ (1487-1559), begon in de jaaren 1520 met invoering van de lutherse reformatie in het Siegerland. Nadat hij stierf, nam zijn zoon Johan VI. „de Oudere” (1536-1606) de regering. Onder zijn heerschappij werd tijdens de jaaren 1570 het calvinistische geloofsbelijdenis aangenomen. 
+In 1607 werd Johan VII. „de Middelste” (1561-1623) Regent van Nassau-Siegen. Toen zijn zoon Johan VIII. „de Jongste”(1583-1638) bekeerde zich tot het katholicisme, liet Johan VII. zijn territorium in drie delen splitsen om het hervormde geloofsovertuiging te beschermen. 
+Maar na de overlijden van zijn vader in 1623 bracht Johan VIII. het gehelde gebied onder zijn controle en recatholiseerde het. Met ondersteuning van Zweedse troepen slaagde zijn halfbroer Johan Maurits (1604-1679) erin, bezit te nemen van Nassau-Siegen en de katholicisme terug de dringen.  Het was Johan Maurits die in 1658 het gulden kroontje op de op de toren van de Nikolaïkerk stichte. 
+Het Bovenslot bleef residentie van de katholieke tak van Nassau-Siegen. De gouden windwijzer op de „Welsche kap” van het Bovenslot  vormde het tegendeel van de protestantse kroontje op de toren van de Nikolaïkerk. 
+De confessionele geschillen zijn slechts tijdens de 18e eeuw beëindigd. In 1707 verloor de katholieke regent Willem Hyacinth (1667-1743) zijn Vorstendom. De protestantse Frederik Willem Adolf van Nassau-Siegen (1680-1720) bleef echter in het Benedenslot . Zijn zoon Frederik Willem (1706-1734) was de laatste Vorst van de protestantse tak. Toen de twee takken van Nassau-Siegen uitstierfen, erfde Willem IV. Carl Hendrik Friso van Oranje-Nassau (1711-1751) het gebied. 
