@@ -1,6 +1,5 @@
-# NIKOLAIKIRCHE MIT DEM „KRÖNCHEN“, DEM WAHRZEICHEN DER STADT
+# NIKOLAÏKERK MET „KROONTJE“ – HET EMBLEEM VAN  SIEGEN
 
-* Evangelische Pfarrkirche, ursprünglich 13. Jahrhundert
+Evangelische parochiekerk, oorspronkelijk uit de 13e eeuw
 
-Die spätromanische Hallenkirche mit ihrem einzigartigen sechseckigen Zentralbau und dreischiffigem Langhaus wird im 2. Viertel des 13. Jahrhunderts erbaut. Dem Heiligen Nikolaus, Schutzpatron der Reisenden und Kaufleute geweiht, gehört sie zu den städtischen Marktkirchen des Mittelalters, die damals von Kaufläden und Krämerbuden umgeben sind. Die Stadtkirche der Grafen von Nassau ist seit 1530 evangelisch und seit etwa 1580 reformierte Hauptpfarrkirche der Stadt Siegen.
-Aus Anlass seiner Erhebung in den Fürstenstand lässt Johann Moritz von Nassau-Siegen 1658 eine große schmiedeeiserne und vergoldete Krone auf den Turm setzen. Das „Krönchen“ wird zum Wahrzeichen der Stadt. Eine besondere Kostbarkeit im Kirchenschatz ist die vom Fürsten gestiftete vergoldete Taufschale, eine peruanische Silberarbeit aus dem 16. Jahrhundert.
+De kerk uit de late romaanse tijd met een unieke zeshoekige hoofdgebouw werd gesticht in de 13e eeuw. Gewijd aan Sint Nicolaas, patroon van reizigers en kooplui, behoort ze bij de type van stadskerken in de Middeleeuwen, die destijds waren omgeven door kleine verkoophuisjes en kruideniers. De stadskerk van de graven van Nassau is sinds 1530 evangelisch en sinds 1580 gereformeerde hoofdkerk van Siegen. Toen Johan Maurits van Nassau-Siegen in 1652 werd in de rijksvorstenstand verheven, liet hij in 1658 een smeedijzer vergulde kroon op de toren van de Nikolaïkerk aanbrengen – nu bekend als het embleem van de stad. Een waardevolle schat van de kerk is de beroemde zilver-vergulde doopschal, die Johan Maurits heeft gesticht, vervaardigd door de Inkas in Peru in de 16e eeuw. 
