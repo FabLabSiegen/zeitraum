@@ -1,10 +1,9 @@
-# OBERES SCHLOSS – STAMMSITZ DES HAUSES NASSAU
+# BOVENSLOT – BAKERMAT VAN HET HUIS NASSAU
 
-* 1259 erste urkundliche Erwähnung der Höhenburg
-* Stammsitz der katholischen Linie Nassau-Siegen
-* Seit 1888 im Besitz der Stadt Siegen
-* Seit 1905 Museum
+* 1259 eerste oorkondelijke vermelding van de hoog gelegen burcht
+* Stamslot van het katholieke Huis Nassau-Siegen
+* Sinds 1888 verkocht aan de stad Siegen
+* Sinds 1905 Museum
 
-Die Höhenburg auf dem Siegberg wird erstmals 1259 schriftlich erwähnt. Über 200 Jahre ist die Anlage aufgeteilt unter die damaligen Landesherren - den Erzbischof von Köln und die Grafen von Nassau. Das Ende der Doppelherrschaft im Jahre 1421 bedeutet für die Grafen des Hauses Nassau-Siegen die alleinige Herrschaft über die Burg und die Stadt Siegen. Mit dem Bau des Unteren Schlosses Anfang des 18. Jahrhunderts wird der Stammsitz des Hauses Nassau-Siegen als Oberes Schloss bezeichnet.
-
-Das Obere Schloss erlebt im Laufe der Zeit vielfältige Nutzungen und Umbauten. Im frühen 19. Jahrhundert geht das Siegerland in preußischen Besitz über. Das Haus Nassau-Siegen ist zu diesem Zeitpunkt bereits erloschen. 1888 kauft die Stadt Siegen das Obere Schloss und entscheidet 1905 dort die Sammlungen des Museums unterzubringen.
+De hoog gelegen burcht werd schriftelijk voor het eerst in 1259 genoemd. Oongeveer 200 jaaren lang was de residentie opgedeeld onder de gemeenschappelijke regering van de graven van Nassau en het Aartsbisdom Keulen. In 1421 volgde het einde van de wereldlijke medeheerschappij van Keulen. Daardoor konden de Nassauers nu alleen regeren over stad en burcht Siegen. Met de aanleg van het Benedenslot tijdens de 18e eeuw werd de zetel van het Huis Nassaus-Siegen ook als Bovenslot omschreven. 
+In de loop der tijd makte het Bovenslot veel verschillende toepassingen en bouwfasen mee. In de vroege 19e eeuw werd stad en land Siegen aan Pruisen overgedragen. Het Vorstenhuis Nassau-Siegen was destijds reeds uitgedoofd. In 1888 kocht de stad Siegen het Bovenslot. In 1903 besliste de stadsbestuur de inrichting van een museum voor regionale geschiedenis en kunst, die in 1905 werd geopend. 
