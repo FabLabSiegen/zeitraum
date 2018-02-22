@@ -1,6 +1,6 @@
-# ZEUGHAUS
+# TUIGHUIS
 
-* nach 1607 erbaut
-* dann Teil des Jesuitenkollegs, heute in Privatbesitz
+* Gebouwd naar 1607
+* Darnaa deel van de Jezuïetencollege, tegenwoordig in privébezit.
 
-Johann VII. der Mittlere (1561-1623) war einer der bedeutendsten Militärhistoriker und –praktiker seiner Zeit. Seine Arbeiten waren weit verbreitet, seine Mithilfe auf protestantischer Seite begehrt. Nach 1607 ließ der Landesherr das Zeughaus aus unregelmäßigen Grauwackesteinen errichten. Über die Menge und Vielfalt des dort gelagerten Kriegsgeräts gibt ein Inventar vom Anfang des 17. Jahrhunderts Auskunft. Das Siegener Zeughaus war ein demnach ein stattliches Waffenarsenal und barg auch eigene Erfindungen des Grafen. Das Gebäude beherbergte später einen Teil des Siegener Jesuitenkollegiums. Der preußische Staat verkaufte es an die Familie Dresler, von der es 1888 der Evangelischen Gesellenverein als Geschenk erhielt. Das Zeughaus ist heute in Privatbesitz.
+Johan VII. „de Middelste“ van Nassau-Siegen (1561-1623) was een van de belangrijkste militaire theoreticus in zijn tijd. Zijn onderzoeken waren wijdverspreid, zijn adviezen van de protestanten zeer begeerd. Naar 1607 liet de graf het tuighuis met gesteente uit grauwacke oprichten. Over het aantal en de diversiteit van de hier opgeslagen oorlogstuig geeft een 17e eeuws inventaris informatie. Het Siegense tuighuis was bijgevolg een aanzienlijk wapenarsenaal en zelfs met militaire uitvindingen van de graf uitgerust. Het gebouw herbergde later ook een deel van de Jezuïetencolleg. Pruisen verkocht het huis aan de Siegense familie Dresler. In 1888 ging het als cadeau aan een evangelische gezellenvereniging. Het voormalige tuighuis is nu in privébezit. 
