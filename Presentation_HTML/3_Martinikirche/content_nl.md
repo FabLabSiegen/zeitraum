@@ -1,9 +1,7 @@
-# Martinikirche (nl)
+# MARTINIKERK
 
-* Älteste Pfarrkirche der Stadt
-* In der Reformation Begräbnis- und Totenkirche
-* Heute evangelische Kirche
+Oudste parochiekerk van  Siegen
+Tijdens de  Reformatie begrafeniskerk en grafstede
+Tegenwoordig protestantse kerk
 
-Nach bauhistorischen Untersuchungen lassen sich für die Martinikirche vier Vorgängerbauten nachweisen, deren erste mit einem Schmuckfußboden versehen war, der mindestens ins 11. Jahrhundert zurückreicht und in Teilen erhalten ist.
-Bei Ausgrabungen stellte man fest, dass die Kirche im 12. Jahrhundert wesentlich größer war. Ihr heutiges Aussehen erhielt das Gebäude im 16. Jahrhundert.
-Das Gotteshaus war ursprünglich die Pfarrkirche Siegens, in der Reformationszeit wurde sie jedoch von der Nikolaikirche abgelöst. Die Martinikirche wurde zur Begräbnis- und Totenkirche, um sie herum lag der jahrhundertealte Kirchhof. 1830 konnte das vernachlässigte Gebäude dank großzügiger Spenden der Siegener Bürger instandgesetzt werden.
+Door kunsthistorische onderzoek is het bewijs geleverd dat vier voorgangergebouwen van de Martinikerk bestonden. Een stuk vloormozaïk uit de oudste periode stamt uit de vroege 11e eeuw. Uit opgravingen blijkt dat de kerk in de 12e eeuw wezenlijk groter was. Het tegenwordige aanzien kreeg de kerk in de 16e eeuw. Het sacrale gebouw was oorspronkelijk de parochiekerk van Siegen, maar bij invoering van de reformatie door de Nikolaïkerk vervangen. De Martinikerk met de eeuwenoude stedelijk kerkhof naabij krijgt dardoor de functie van begrafeniskerk. In 1830 werd dank zij een royale schenking van Siegens burger een heroprichting van de tussentijds vernielde kerk mogelijk.
