@@ -1,7 +1,8 @@
-# Johann VII. von Nassau-Siegen
 
-Johann VII. zu Nassau-Siegen (1561-1623), genannt der Mittlere, war Graf von Nassau-Siegen. Die Teilgrafschaft mit der Residenz in Siegen war ihm bei der väterlichen Erb-teilung 1607 zugesprochen worden. Er ließ das Obere Schloss ausbauen und befestigen. Im neu errichteten Zeughaus gründete er 1616 eine Kriegsschule. Johann VII. verstarb 1623 in Siegen.
+# JOHANN VII. VAN NASSAU-SIEGEN
 
-Aufgrund von Erbstreitigkeiten mit seinem zum Katholizismus konvertierten Sohn Jo-hann VIII. dem Jüngeren hatte er testamentarisch die Teilung der Grafschaft Nassau-Siegen in drei Teile angeordnet. Seine letzte Ruhestätte befindet sich heute in der Fürst-engruft des Unteren Schlosses.
+Johan VII. (1561-1623), genoemd „de Middelste“, was  Graaf van Nassau-Siegen. Na de vaderlijke erfdeling in het jaar 1607 kwam de graafschap met residentie in Siegen aan hem. Hij liet het Bovenslot uitbouwen en vesterken. In zijn nieuwe tuighuis stichte hij in 1616 een militaire academie. Iin 1623 overleed Johan VII. in Siegen.  
 
-Seit 2001 steht neben der Hainpforte des Schlossparks eine von Hermann Kuhmichel geschaffenen Statue des Grafen. Ursprünglich hatte die Großplastik an der Heidenberg-Kaserne gestanden, wo sie an die Bedeutung des Grafen als Feldherr erinnern sollte. Mit dem Umzug an den neuen Standort war eine neue Wahrnehmung Johanns, der die Hohe Schule Herborn nach Siegen verlegt hatte, als Begründer der universitären Tradition verbunden.
+Door ruzie met zijn naar het Katholicisme bekeerde zoon Johan VIII. „de Jongste”  gaf hij testamentaire opdracht voor een driedelige splitsing van de graafschap Nassau-Siegen. Hij vond zijn laatste rustplaats in de vorstelijke grafkelder van het Benedenslot. 
+
+Sinds 2001 staat naast de Hainpoort van het slotpark een grote standbeeld, gecreëerd door Hermann Kuhmichel. Oorspronkelijk stond het sculptuur bij een kazerne op de Heidenberg. Hier zou worden herinnerd aan zijn militaire merites. De verhuizing van de standbeeld naar de nieuwe locatie documenteert zijn belang voor de universitaire traditie van Siegen, omdat hij de Nassause Hogeschool van Herborn naar Siegen liet verplaatsen.
