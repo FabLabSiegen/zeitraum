@@ -1,5 +1,3 @@
-# HTS – HÜTTENTALSTRASSE
+# HTS – Hüttentalstraat
 
-Die Hüttentalstraße, kurz HTS genannt, ist eine Bundesstraße, die den Ballungsraum Siegen von Norden nach Süden durchquert. Die Straße verdankt ihren Namen der ehemaligen Stadt Hüttental, die 1975 in die Stadt Siegen eingegliedert wurde und deren Gebiet die HTS tangiert. Die HTS prägt das Siegener Stadtbild entscheidend. Aufgrund der topografischen Begebenheiten wurde sie über lange Strecken auf Betonstelzen gebaut und führt somit über die Dächer der Stadt hinweg.
-
-Das Projekt war von Anfang an umstritten. Lärmbelästigung, aufwändige Baumaßnahmen, hohe Kosten und nicht zuletzt das Erscheinungsbild der HTS riefen mehrfach den Widerspruch der Bevölkerung hervor. Heute hat die Siegener Bevölkerung sich mit der HTS weitgehend arrangiert. Für viele ist sie nicht mehr wegzudenken.
+De Hüttentalstraat, verkort HTS genoemd, is een Bondsstraat of provincie snelweg, die de stedelijke agglomeratie van noord naar zuid doorkruist. De snelweg dankt haar naam aan de voormalige stad Hüttental, sinds 1975 ingepast in de stad Siegen. De HTS vormt het Siegense stadsbeeld essentieel. Op grond van de topografische gebeurtenissen werd ze over een grote afstand op betonpilaren en hierdoor boven  de daken van Siegen aangelegd. Het was een langdurig an omstreden project. Geluidsoverlast,  omslachtige werkzaamheden, hoge kosten en ten slotte het uiterljik van de snelweg was al aanleiding tot problemen en protesten. Maar nu is de HTS  niet meer weg te denken. 
