@@ -1,8 +1,7 @@
-# Walter Krämer
+# WALTER KRÄMER
 
-* Herrmann Walter Krämer (1892 - 1941) war ein in Siegen geborener Politiker und Widerstandskämpfer gegen den Nationalsozialismus.
+*Herrmann Walter Krämer (1892-1941) was een in Siegen geboren politicus en verzetstrijder tegen de nationaalsocialisme.
 
-Aufgrund seiner Zugehörigkeit zur Kommunistischen Partei Deutschlands (KPD) wurde Krämer 1933 vom NS-Regime in Schutzhaft genommen.
-1937 wurde er im KZ Buchenwald inhaftiert. Dort eignete er sich heimlich medizinische Kenntnisse und Fertigkeiten an und führte als verantwortlicher Funktionshäftling den Häftlingskrankenbau, in dem zahlreichen KZ-Insassen das Leben gerettet wurde. Später wurde Walter Krämer in ein Außenlager nach Goslar-Hahndorf verlegt und dort am 6. November 1941 von der SS erschossen.
+Op grond van zijn behoren tot de communistische partij in Duitsland (KPD) werd Krämer in 1933 van de nazi-regime in verzekerde bewaring gesteld. In 1937 werd hij in het concentratiekamp Buchenwald opgesloten. Stiekem traakt hij daar medische kennis naar zich.  Als verantwoordelijke gevangene leidde hij in het concentratiekamp het ziekenhuis voor de gedetineerden en redde dardoor de leven van talrijke inzittenden. Later werd hij in een opslagkamp in Goslar-Hahndorf verplaatst en daar op 6. November 1941 van de SS vermoord.
 
-Während die Gedenkstätte „Yas Vashem“ in Israel ihn schon im Jahr 2000 mit dem Ti-tel „Gerechter unter den Völkern“ auszeichnete, wurde in Siegen lange um die Ehrung Walter Krämers gestritten. 2014 wurde vor dem Kreisklinikum in Siegen-Weidenau der „Walter-Krämer-Platz“ geschaffen. Dort erinnern eine Betonstele und eine Bronzeplas-tik des Künstlers Erwin Wortelkamp an den „Arzt von Buchenwald“.
+Ofschoon hij reeds in 2000 door Yad Vashem in Israel de titel “rechtvaardingen onder de volkeren” ontving, werd in Siegen lange tijd getwist over zijn eerbetoon. Pas in 2014 werd voor het ziekenhuis in Siegen-Weidenau de „Walter-Krämer-Plaats“ opgericht. Een gedenkteken uit beton en een bronzen beeld van de kunstenaar Erwin Wortelkamp herinneren aan de „arts van Buchenwald“.
