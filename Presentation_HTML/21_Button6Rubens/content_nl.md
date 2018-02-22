@@ -1,6 +1,4 @@
-# Peter Paul Rubens
+# PETER PAUL RUBENS 
 
-Peter Paul Rubens (1577-1640) war ein bedeutender Barockmaler und Diplomat der spanischen Niederlande. Wahrscheinlich wurde er in der Burgstraße 10, ganz in der Nähe des Oberen Schlosses geboren. Fest steht, dass sein Vater in Siegen unter Hausarrest stand, da er beschuldigt wurde, ein Verhältnis mit Anna von Sachsen, der Gemahlin von Wilhelm von Oranien, zu haben. Rubens‘ Geburtshaus wurde im zweiten Weltkrieg komplett zerstört. An seiner Stelle steht heute die Realschule am Oberen Schloss.
-
-Peter Paul Rubens ist ein wichtiger regionaler Erinnerungsort. Einige der Werke des Meisters sind heute im Siegerlandmuseum zu sehen. Seit 1957 wird alle fünf Jahre Rubenspreis zu seinen Ehren
-verliehen. Der Rubensbrunnen im Schlosspark erinnert an den Streit der Städte Köln, Antwerpen und Siegen, die alle für sich in Anspruch nahmen, Geburtsort des berühmten Malers zu sein.
+Peter Paul Rubens (1577-1640) was een beroemde barokschilder en diplomaat in de Spaanse Nederlanden. Waarschijnlijk werd hij in de Burgstraat 10, dichtbij het Bovenslot, geboren. Het staat vast, dat zijn vader in Siegen huisarrest heeft wegens een affaire met Anna  van Saksen, echtgenote van Willem van Oranje. Rubens´ geboortehuis werd in WO II grondig verwoest. Op deze plaats staat er vandaag een middelbare school.
+Peter Paul Rubens is een belangrijke gedenkplaats. Enige schilderijen van hem zijn in het Siegerlandmuseum in het Bovenslot te zien. Ter ere van hem wordt sinds 1957 elke vijf jaar de Rubens-Prijs van de stad Siegen gegeven. De Rubens-Fontein in het slotpark herinnert aan de twist van de steden Keulen, Antwerpen en Siegen, die alle hebben aangevoerd, geboortestad van de bekende schilder te zijn.
