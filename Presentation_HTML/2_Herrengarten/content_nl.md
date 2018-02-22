@@ -1,7 +1,7 @@
-# Herrengarten (nl)
+# HERENTUIN
 
-* Im 17. Jahrhundert Park
-* Dann mit Gebäuden versehen
-* Aktuell: Planungen zur Rückführung in eine Grünfläche
+In de 17e eeuw een park
+Darnaa voorzien van gebouwen 
+Momenteel: Planning voor de omzetting in een groenzone
 
-Der Herrengarten lag ursprünglich vor den Toren der alten Kernstadt Siegen. Johann Moritz von Nassau-Siegen (1604-1659) ließ ihn als Lustgarten anlegen, mit einer Umfassungsmauer und einem schmiedeeisernen Gitter umfassen. Lange Zeit blieb das Gelände die einzige größere Grünfläche der Unterstadt, bis es mit Gebäuden versehen wurde. Aktuell wird die Rückführung in eine Parkanlage geplant.
+De Herentuin bevond zich oorspronkelijk buiten de stad en was door Johan Maurits van Nassau-Siegen (1604-1679) ontworpen als lusthof met muur en gietijzeren traliewerk. Stukken van deze lanstralie zijn nog steets in het park van de Bovenslot  te zien. Een tijdlang was het terrein de enige grotere groenzone van de benedenstad tot het was voorzien van gebouwen. Momenteel komt de omzetting in een groenzone in bespreking. 
