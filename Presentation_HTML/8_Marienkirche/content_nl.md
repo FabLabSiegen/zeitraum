@@ -1,9 +1,8 @@
-# SANKT MARIENKIRCHE
+# MARIAKERK
 
-* Seit 1725 einzige katholische Kirche innerhalb der ehemaligen Stadtmauer
-* Siegens einziger erhaltener Sakralbau aus der Zeit des Barock
-* Ursprünglich Ort des Fürstengestühls (heute über der Tür in diesem Raum)
+* Sinds 1725 enige katholische kerk binnen de voormalige stadsmuur
+* Siegens enige sacrale gebouw uit de baroktijd
+* Originele locatie van de vorstenstol (tegenwoordig boven de deur in deze zaal)
 
-Die Sankt Marienkirche ist die einzige katholische Kirche innerhalb der ehemaligen Stadtmauer. Sie ist außerdem die erste katholische Pfarrkirche, die nach der Reformation in Siegen gebaut wurde. Die Grundsteinlegung erfolgte durch den Jesuitenorden im Jahre 1702, aber erst 23 Jahre später, 1725, konnte das Gebäude seiner Bestimmung übergeben werden.
-Im Chor der Marienkirche befand sich das Fürstengestühl mit dem bekrönenden Allianzwappen, das heute über der Tür in diesem Raum des Museums zu sehen ist.
-Siegens einziger Sakralbau aus der späten Barockzeit wurde beim Bombenangriff 1944 zerstört, 1948 wieder aufgebaut und mehrfach saniert.
+De vroegere Jezuïetenkerk „Maria Hemelvaart“, nu Mariakerk, is de enige katholische kerk binnen de voormalige stadsmuur. Het godshuis is bovendien de enige katholische parochiekerk die naar de reformatie werd opgericht. De eerste steen werd gelegd in 1702 door de Jezuïeten maar de Mariakerk werd pas 23 jaar later in 1725  in gebruik genomen. 
+In de kerk bevond zich vroeger de indrukwekkend vorstenstol met decoratieve Alliantie-wapen, tegenwoordig te zien boven de deur in deze zaal. Siegens eenige kerk uit de laate baroktijd werd in 1944 zwaar vernield, maar in 1948 weer opgericht en ondertussen verschillende malen gesaneerd.   
