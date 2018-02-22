@@ -1,11 +1,7 @@
-# Henner und Frieder
+# HENNER EN FRIEDER
 
-„Henner“ (Heinrich) und „Frieder“ (Friedrich) sind zwei Bronzeplastiken, welche die Geschichte des Siegerländer Erzbergbaus und der Eisen- und Stahlindustrie versinnbildlichen. Die überlebensgroßen Standbilder eines Bergmanns und eines Hüttenmanns wurden im Jahr 1902 von dem Siegener Bildhauer Friedrich Reusch (1843-1906) entworfen.
-
-Anlass war die eine große Industrie- und Gewerbeschau in Düsseldorf. Nach Ende der Ausstellung wurden die Figuren der Stadt Siegen als Geschenk vermacht und im Jahr 1904 erstmals auf der Siegbrücke aufgestellt.
-
-Seitdem haben sie mehrfach ihren Standort gewechselt. Heute stehen sie auf der neuen Oberstadtbrücke und überblicken das neugestaltete Siegufer.
-
-Der Bildhauer Friedrich Reusch wollte mit Henner und Frieder nicht nur der Montanindustrie, sondern auch den genügsamen und hart arbeitenden Menschen im Siegerland ein Denkmal setzen.
-
-Durch ihre jahrzehntelange Präsenz im Zentrum der Unterstadt sind sie jedoch für viele zu einem Wahrzeichen der Stadt selbst geworden.
+„Henner“ (Hendrik) en „Frieder“ (Frederik) zijn twee bronzen beelden, die de geschiedenis van de eertsmijnbouw en de metallurgische activiteiten vertegenwoordigen.  De meer dan levensgroote sculpturen van een mijnwerker en van de medewerker van een ijzerfabriek  zijn in 1902 gecreëerd  door de Siegener beeldhouwer Friedrich Reusch (1843-1906). 
+Aanleiding was de grote tentoenstelling  voor industrie en nijverheid te Dusseldorf in 1902. Na beëindiging van de tentoenstelling kwamen de beelden als cadeau aan de stad Siegen en worden in 1904 vor het eerst op de „Siegbrücke“ (brug over de rivier Sieg) geplaatst. 
+Sindsdien hebben ze meermals hun locatie veranderd. Tegenwoordig staan ze op de nieuwe „Oberstadtbrücke“ (brug naar de Bovenstad) und kijken naar de nieuw ontworpen rivierbedding. 
+De beeldhouwer Friedrich Reusch wilde niet alleen de kolen- en staalindustrieën, maar ook de spaarzame, hardwerkende mensen in het Siegerland een herdenking plaatsen. 
+Door hun tientallen jaren aanwezigheid in het stadscentrum zijn ze nu een mijlpaal  voor vele inwoners.
