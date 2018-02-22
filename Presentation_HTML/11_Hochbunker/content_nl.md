@@ -1,9 +1,6 @@
-# HOCHBUNKER
+# LUCHTAANVAL VAN 16 DECEMBER 1944 EN BUNKER IN HET STADSGEBIED
 
-Noch vor Beginn des Zweiten Weltkrieges ließ der Siegener Oberbürgermeister Alfred Fißmer Luftschutzstollen und -bunker anlegen. Er tat dies nicht ohne Grund: Siegen war Garnisonsstadt und Standort kriegswichtiger Industrie.
-
-Am Samstag, dem 16. Dezember 1944, ereignete sich der erste große Luftangriff der Alliierten auf Siegen. 348 Menschen kamen ums Leben, darunter 32 ausländische Gefangene, die in Deutschland Zwangsarbeit leisten mussten. Der alte Stadtkern Siegens wurde zu über 80 Prozent zerstört.
-
-Beinahe gleichzeitig mit dem Angriff auf Siegen ging eine deutsche V2-Rakete auf das belgische Antwerpen nieder. Der Angriff, bei dem 561 Menschen starben, wurde von Siegen aus befohlen.
-
-Der Bombenangriff auf Siegen ist fest im kollektiven Gedächtnis der Bevölkerung verankert. Seit 2009 wird den Opfern von Siegen und Antwerpen gemeinsam gedacht.
+Nog voor het begin van WO II. liet Burgemeester Alfred Fißmer schuilkelder en bunker aanleggen. Hij deed diet niet zonder reden: Siegen was garnizoenstad en zetel belangrijker industrie voor het leger.  
+Op zaterdag 16 december 1944 von de eerste geallieerde luchtaanval op de Siegen plaats. 348 mensen verloren het leven, waaronder ook 32 buitenlandse dwangarbeiders. De oude stadskern van Siegen werd tot 80 procent verwoest. 
+Vrijwel tegelijkertijd met de luchtaanval op Siegen werd Antwerpen met een duitse V2-raket beschoten. Deze raketaanval met 561 doden werd uit Siegen bevolen. 
+Het bombardement van Siegen is stevig in het collectieve verheugen van de bevolking verankerd. Sinds 2009 word gezamenlijk aan de slachtoffers van Siegen en Antwerpen gedacht. 
