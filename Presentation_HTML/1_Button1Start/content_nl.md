@@ -1,10 +1,10 @@
-# Stadt Siegen (nl)
+# STAD SIEGEN
 
-Grundlegende Infos:
+Basisinformaties:
 
-Bundesland: 		Nordrhein-Westfalen
-Regierungsbezirk:	Arnsberg
-Kreis:				Siegen-Wittgenstein
-Fläche:				114,7 km2
-Einwohner:			102.355 (Stand Dezember 2015)
-Seit 2012 Universitätsstadt
+Deelstaat: Noordrijn-Westfalen
+Regering district: Arnsberg
+Bestuurseenheid: Kreis Siegen-Wittgenstein
+Oppervlakte: 114,7 km2 
+Inwoners: 102.355 (2015)
+Sinds 2012 universiteitsstad
