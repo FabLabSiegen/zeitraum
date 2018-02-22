@@ -1,6 +1,6 @@
 # STAD SIEGEN
 
-Basisinformaties:
+* Basisinformaties:
 
 Deelstaat: Noordrijn-Westfalen
 Regering district: Arnsberg
