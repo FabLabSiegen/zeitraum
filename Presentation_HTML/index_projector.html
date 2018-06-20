@@ -38,14 +38,21 @@
 						if (index != oldIndex || lang != oldLang) {
 							//console.log("switching contents");
 
-							var downloadingImage = $("<img>");
-							downloadingImage.on("load", function(){
-								$("#picture").html("<img id='img1' height='100%' width='100%' src='" + $(this).attr("src") + "' />");
-							});
-							downloadingImage.attr("src", map[index] + "/beamer_" + lang + ".jpg");
+
+							if(lang == "nl") {
+								$("#video").load(map[index] + "/projector_animation" + ".html");
+							}else{
+
+								var downloadingImage = $("<img>");
+								downloadingImage.on("load", function(){
+									$("#picture").html("<img id='img1' height='100%' width='100%' src='" + $(this).attr("src") + "' />");
+								});
+								downloadingImage.attr("src", map[index] + "/beamer_" + lang + ".jpg");
+							}
 
 							oldIndex = index;
 							oldLang = lang;
+
 						}
 					})
 					.fail(function() {
@@ -65,5 +72,6 @@
 
 	<body>
 		<div id="picture"></div>
+		<div id="video"></div>
 	</body>
 </html>
