@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<link rel="stylesheet" href="animation.css">
 		<script src="jquery-3.1.1.min.js"></script>
 		<script>
 		var map = {"0": "1_Button1Start",
@@ -39,8 +40,8 @@
 							//console.log("switching contents");
 
 
-							if(lang == "nl") {
-								$("#video").load(map[index] + "/projector_animation" + ".html");
+							if(lang == "nl" && index == 0) {
+								$("#animation").load(map[index] + "/animation" + ".html");
 							}else{
 
 								var downloadingImage = $("<img>");
@@ -72,6 +73,6 @@
 
 	<body>
 		<div id="picture"></div>
-		<div id="video"></div>
+		<div id="animation"></div>
 	</body>
 </html>

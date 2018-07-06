@@ -1,0 +1,50 @@
+#animation img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+
+#animation img.top {
+animation-name: animFadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 35s;
+}
+
+@-webkit-keyframes animFadeInOut {
+  0% {
+    opacity:1;
+  }
+  40% {
+    opacity:0;
+  }
+  60% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+#animation img:nth-of-type(1) {
+  animation-delay: 23s;
+}
+#animation img:nth-of-type(2) {
+  animation-delay: 18s;
+}
+#animation img:nth-of-type(3) {
+  animation-delay: 13s;
+}
+#animation img:nth-of-type(4) {
+  animation-delay: 8s;
+}
+#animation img:nth-of-type(5) {
+  animation-delay: 3s;
+}
+#animation img:nth-of-type(6) {
+  animation-delay: 0s;
+}
