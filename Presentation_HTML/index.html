@@ -39,11 +39,16 @@
 						console.log("done");
 						if (index != oldIndex || lang != oldLang) {
 							console.log("switching contents");
-							$("#ebenetext").load(map[index] + "/content_" + lang + ".html");
-							$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
-							$("#back").html("<img id='img2' src='bg.jpg' />");
-							$("#qrpicture").html("<img id='img3' src='" + map[index] + "/qr.jpg' />");
-							$("#backtest").html("<img id='img4' src='" + map[index] + "/bg.jpg' />");
+							if (tour == true) {
+								$("#back").html("<img id='img0' src='" + map[index] + "/tour.jpg' />");
+							}
+							else {
+								$("#ebenetext").load(map[index] + "/content_" + lang + ".html");
+								$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
+								$("#back").html("<img id='img2' src='bg.jpg' />");
+								$("#qrpicture").html("<img id='img3' src='" + map[index] + "/qr.jpg' />");
+								$("#backtest").html("<img id='img4' src='" + map[index] + "/bg.jpg' />");
+							}
 							oldIndex = index;
 							oldLang = lang;
 						}

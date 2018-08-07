@@ -40,9 +40,10 @@
 							//console.log("switching contents");
 
 
-							if(lang == "nl" && index == 0) {
-								$("#animation").load(map[index] + "/animation" + ".html");
-							}else{
+							if(tour == true && index == 0) {
+								$("#animation").load(map[index] + "/animation.html");
+							}
+							else {
 
 								var downloadingImage = $("<img>");
 								downloadingImage.on("load", function(){

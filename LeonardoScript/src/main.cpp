@@ -4,7 +4,7 @@
 #include <Time.h>
 #include <Keyboard.h>
 
-int NUM_ADUINO = 1;
+int NUM_ADUINO = 4;
 int LAST_SENSOR_PREV = 13;
 int LAST_SENSOR = 5;
 
