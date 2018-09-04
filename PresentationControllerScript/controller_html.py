@@ -2,7 +2,7 @@
 
 numLanguages = 3
 languagePins = [0, 1, 2] # de, en, nl
-tourPin = 56
+tourPin = 52
 language = "de"
 tourMode = False
 slide = 0
@@ -13,7 +13,7 @@ def writeFile():
 		
 		file.write("var index = '" + str(slide) + "';\n")
 		file.write("var lang = '" + str(language) + "';\n")
-		file.write("var tour = " + ("true" if tourMode else "false") + ";")
+		file.write("var tour = " + ("true" if tourMode else "false") + ";\n")
 		file.close()
 	except Exception:
 		print("Unable to write file.")
