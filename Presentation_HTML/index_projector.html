@@ -40,11 +40,14 @@
 							//console.log("switching contents");
 
 
-							if(tour == true && index == 0) {
+							if(tour === true && index == 0) {
+								$("#picture").hide();
 								$("#animation").load(map[index] + "/animation.html");
+								$("#animation").load(map[index] + "/projector_animation" + ".html");
+
 							}
 							else {
-
+								$("#animation").hide();
 								var downloadingImage = $("<img>");
 								downloadingImage.on("load", function(){
 									$("#picture").html("<img id='img1' height='100%' width='100%' src='" + $(this).attr("src") + "' />");
