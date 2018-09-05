@@ -49,15 +49,15 @@
 								
 							}
 							else {
-								$("#ebenezwei").show();
-								$("#qrpicture").show();
-								$("#ebenetext").show();
-
 								
 								$("#ebenetext").load(map[index] + "/content_" + lang + ".html");
 								$("#picture").html("<img id='img1' src='" + map[index] + "/01.jpg' />");
 								$("#back").html("<img id='img2' src='bg.jpg' />");
 								$("#qrpicture").html("<img id='img3' src='" + map[index] + "/qr.jpg' />");
+								
+								$("#ebenezwei").show();
+								$("#qrpicture").show();
+								$("#ebenetext").show();
 								
 							}
 							oldIndex = index;
