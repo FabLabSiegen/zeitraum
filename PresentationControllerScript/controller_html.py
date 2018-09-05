@@ -37,7 +37,7 @@ while(True):
 		elif inputNum == tourPin:
 			if tourMode == False:
 				print("Enabling tour mode (was off)")
-			else
+			else:
 				tourMode = True
 				print("Tour mode is already enabled")
 		else:
