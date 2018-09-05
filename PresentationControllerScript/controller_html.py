@@ -29,7 +29,7 @@ while(True):
 				language = "en"
 			elif inputNum == 2:
 				language = "nl"
-				print("Changing language to " + language)
+			print("Changing language to " + language)
 				if tourMode == True:
 					print("Disabling tour mode (was on)")
 			# Pressing a language button disables tour mode

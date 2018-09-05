@@ -32,12 +32,13 @@
 
 			var oldIndex = '-1';
 			var oldLang = 'xy';
+			var previousTourStatus = -1;
 			var loadVar = function() {
 				console.log("polling");
 				$.getScript("currentSlide.js")
 					.done(function() {
 						console.log("done");
-						if (index != oldIndex || lang != oldLang) {
+						if (index != oldIndex || lang != oldLang || tour != previousTourStatus) {
 							console.log("switching contents");
 							if (tour === true) {
 								$("#back").html("<img id='img2' src='" + map[index] + "/tour.jpg' />");
@@ -61,6 +62,7 @@
 							}
 							oldIndex = index;
 							oldLang = lang;
+							previousTourStatus = tour;
 						}
 					})
 					.fail(function() {
