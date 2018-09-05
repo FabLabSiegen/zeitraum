@@ -37,8 +37,8 @@ while(True):
 		elif inputNum == tourPin:
 			if tourMode == False:
 				print("Enabling tour mode (was off)")
-			else:
 				tourMode = True
+			else:
 				print("Tour mode is already enabled")
 		else:
 			slide = inputNum - numLanguages
