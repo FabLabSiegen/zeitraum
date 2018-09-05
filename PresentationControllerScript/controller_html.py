@@ -29,10 +29,17 @@ while(True):
 				language = "en"
 			elif inputNum == 2:
 				language = "nl"
+				print("Changing language to " + language)
+				if tourMode == True
+					print("Disabling tour mode (was on)")
 			# Pressing a language button disables tour mode
 			tourMode = False
 		elif inputNum == tourPin:
-			tourMode = True
+			if tourMode == False
+				print("Enabling tour mode (was off)")
+			else
+				tourMode = True
+				print("Tour mode is already enabled")
 		else:
 			slide = inputNum - numLanguages
 			print("Changing slide to " + str(slide))
