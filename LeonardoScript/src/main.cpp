@@ -6,7 +6,7 @@
 
 int NUM_ADUINO = 1;
 int LAST_SENSOR_PREV = 13;
-int LAST_SENSOR = 5;
+int LAST_SENSOR = 13;
 
 
 void setup() {
@@ -16,13 +16,22 @@ void setup() {
 }
 
 void sendKeyboardAction(int i) {
-    Keyboard.print((NUM_ADUINO * LAST_SENSOR_PREV) + i);
-    Keyboard.write(KEY_RETURN);
+    int valuetopost=(NUM_ADUINO * (LAST_SENSOR_PREV+1)) + LAST_SENSOR-i;//reading from highest to lowest
+    Serial.print("Sending "); Serial.println(valuetopost);
+    if(valuetopost>9){
+      valuetopost+=97-9;
+      char chartopost=valuetopost;
+      Keyboard.write(chartopost);
+    }
+    else{
+      Keyboard.write(valuetopost);
+    }
+    //Keyboard.write(KEY_RETURN);
 }
 
 int touchedPort = -1;
 bool touched = false;
-time_t touchTime = time_t(1);
+time_t touchTime = time_t(0.5);
 time_t touchTimestamp = 0.0f;
 void touchAction(int i) {
     if (!touched) {

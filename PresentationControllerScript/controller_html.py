@@ -1,4 +1,5 @@
 #!/bin/python3
+import subprocess
 
 numLanguages = 3
 languagePins = [0, 1, 2] # de, en, nl
@@ -17,7 +18,12 @@ def writeFile():
 
 while(True):
 	try:
-		inputNum = int(input("Slide: "))
+		inputNum=subprocess.check_output(["read " "-s " "-n " "1 " "-r " "rep " "&& " "echo " "\"$rep\" "], shell=True)[0]
+		if(inputNum>57):
+			inputNum -=87
+		else:
+			inputNum -=48
+		#reads one buttonpress and only one button, changed the arduinos to buttonpresses to enable gradual changes for direct perception of reaction later down the line
 		if inputNum in languagePins:
 			if inputNum == 0:
 				language = "de"
