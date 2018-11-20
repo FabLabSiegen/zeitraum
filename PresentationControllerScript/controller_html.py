@@ -1,4 +1,5 @@
 #!/bin/python3
+import subprocess
 
 #constants
 numLanguages = 3#number after the last language pin number, first pin that shows a slide
